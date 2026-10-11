@@ -1,0 +1,6 @@
+Segment,customers,pct_customers,avg_recency_days,avg_frequency,avg_monetary,revenue,pct_revenue,avg_order_value
+1 Champions,282,28.5,14.0,7.23,1085.4,306083.62,43.6,150.19
+2 At-Risk High Value,239,24.2,59.9,5.99,875.98,209359.17,29.8,146.2
+3 Loyal,63,6.4,13.1,5.56,528.54,33298.17,4.7,95.14
+4 Recent / Promising,157,15.9,14.8,3.13,423.84,66543.49,9.5,135.25
+5 Hibernating,248,25.1,83.3,2.77,349.67,86719.17,12.4,126.05

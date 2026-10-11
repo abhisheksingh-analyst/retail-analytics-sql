@@ -1,0 +1,12 @@
+check_name,n
+raw_sales rows,5002
+raw_customers rows,1000
+raw_products rows,200
+ISSUE: duplicate sales rows,2
+ISSUE: sales price != catalog price,20
+ISSUE: customers with missing Location,13
+ISSUE: customers with implausible Age,1
+check: sales with unknown CustomerID,0
+check: sales with unknown ProductID,0
+check: non-positive quantity or price,0
+note: products with zero stock,1

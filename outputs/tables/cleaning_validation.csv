@@ -1,0 +1,7 @@
+check_name,n
+clean_sales rows (expect 5000),5000.0
+duplicate TransactionIDs (expect 0),0.0
+rows with price corrected (expect 20),20.0
+revenue removed by correction,507038.0
+invalid ISO dates (expect 0),0.0
+customers with NULL age (expect 1),1.0

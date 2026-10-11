@@ -1,0 +1,11 @@
+RevenueRank,ProductName,Category,Price,Units,Revenue,StockLevel,InventoryFlag
+200,Product_139,Beauty & Health,10.3,47,484.1,390,"Overstock (weak seller, high stock)"
+199,Product_161,Clothing,10.95,50,547.5,65,Balanced
+198,Product_159,Beauty & Health,17.42,35,609.7,232,Balanced
+197,Product_20,Beauty & Health,10.53,58,610.74,429,"Overstock (weak seller, high stock)"
+196,Product_178,Clothing,11.21,55,616.55,110,Balanced
+195,Product_66,Beauty & Health,10.05,62,623.1,110,Balanced
+194,Product_35,Beauty & Health,11.56,57,658.92,9,Restock now (<90 days of cover)
+193,Product_21,Home & Kitchen,14.29,49,700.21,481,"Overstock (weak seller, high stock)"
+192,Product_109,Home & Kitchen,11.12,66,733.92,117,Balanced
+191,Product_164,Clothing,10.36,73,756.28,254,Balanced

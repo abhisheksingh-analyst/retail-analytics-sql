@@ -1,0 +1,32 @@
+Segment,AgeGroup,customers
+1 Champions,18-24,36
+1 Champions,25-34,52
+1 Champions,35-44,51
+1 Champions,45-54,57
+1 Champions,55-64,50
+1 Champions,65+,36
+2 At-Risk High Value,18-24,21
+2 At-Risk High Value,25-34,36
+2 At-Risk High Value,35-44,45
+2 At-Risk High Value,45-54,50
+2 At-Risk High Value,55-64,62
+2 At-Risk High Value,65+,25
+3 Loyal,18-24,9
+3 Loyal,25-34,14
+3 Loyal,35-44,7
+3 Loyal,45-54,11
+3 Loyal,55-64,18
+3 Loyal,65+,4
+4 Recent / Promising,18-24,22
+4 Recent / Promising,25-34,33
+4 Recent / Promising,35-44,35
+4 Recent / Promising,45-54,23
+4 Recent / Promising,55-64,29
+4 Recent / Promising,65+,14
+4 Recent / Promising,Unknown,1
+5 Hibernating,18-24,40
+5 Hibernating,25-34,54
+5 Hibernating,35-44,46
+5 Hibernating,45-54,41
+5 Hibernating,55-64,42
+5 Hibernating,65+,25

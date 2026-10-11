@@ -1,0 +1,5 @@
+InventoryFlag,products,units_in_stock,revenue
+Balanced,177,44751,652259.42
+"Overstock (weak seller, high stock)",16,6984,17332.62
+Restock now (<90 days of cover),6,101,30067.65
+Out of stock,1,0,2343.93

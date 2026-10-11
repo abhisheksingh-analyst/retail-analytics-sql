@@ -1,0 +1,17 @@
+ProductID,ProductName,Category,Price,StockLevel,Units,Revenue,DaysOfCover
+40,Product_40,Clothing,24.03,493,67,1610.01,1538.0
+157,Product_157,Beauty & Health,14.43,491,56,808.08,1832.0
+21,Product_21,Home & Kitchen,14.29,481,49,700.21,2052.0
+132,Product_132,Electronics,12.98,478,63,817.74,1586.0
+9,Product_9,Clothing,15.23,470,60,913.8,1637.0
+112,Product_112,Electronics,11.95,445,70,836.5,1329.0
+199,Product_199,Home & Kitchen,27.62,442,62,1712.44,1490.0
+158,Product_158,Beauty & Health,22.27,441,47,1046.69,1961.0
+101,Product_101,Home & Kitchen,16.85,430,76,1280.6,1183.0
+20,Product_20,Beauty & Health,10.53,429,58,610.74,1546.0
+14,Product_14,Electronics,31.64,421,51,1613.64,1725.0
+175,Product_175,Home & Kitchen,28.05,413,61,1711.05,1415.0
+139,Product_139,Beauty & Health,10.3,390,47,484.1,1734.0
+146,Product_146,Beauty & Health,11.09,388,76,842.84,1067.0
+4,Product_4,Clothing,22.06,386,58,1279.48,1391.0
+170,Product_170,Clothing,13.65,386,78,1064.7,1034.0

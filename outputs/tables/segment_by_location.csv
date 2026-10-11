@@ -1,0 +1,25 @@
+Segment,Location,customers
+1 Champions,East,68
+1 Champions,North,63
+1 Champions,South,67
+1 Champions,Unknown,4
+1 Champions,West,80
+2 At-Risk High Value,East,54
+2 At-Risk High Value,North,65
+2 At-Risk High Value,South,51
+2 At-Risk High Value,Unknown,3
+2 At-Risk High Value,West,66
+3 Loyal,East,18
+3 Loyal,North,10
+3 Loyal,South,17
+3 Loyal,West,18
+4 Recent / Promising,East,31
+4 Recent / Promising,North,36
+4 Recent / Promising,South,44
+4 Recent / Promising,Unknown,4
+4 Recent / Promising,West,42
+5 Hibernating,East,52
+5 Hibernating,North,71
+5 Hibernating,South,60
+5 Hibernating,Unknown,2
+5 Hibernating,West,63

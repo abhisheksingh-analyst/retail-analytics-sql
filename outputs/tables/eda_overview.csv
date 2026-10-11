@@ -1,0 +1,2 @@
+transactions,units_sold,total_revenue,avg_revenue_per_transaction,avg_units_per_transaction,purchasing_customers,total_customers,products_sold,first_date,last_date,days_observed
+5000,12325,702003.62,140.4,2.46,989,1000,200,2023-01-01,2023-07-28,209

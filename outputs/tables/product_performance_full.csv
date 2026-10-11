@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Price,StockLevel,Units,Revenue,Transactions,UniqueBuyers,RevenueRank,ABCClass,PerformanceTier,UnitsPerDay,DaysOfCover,InventoryFlag
+17,Product_17,Beauty & Health,94.5,208,100,9450.0,39,39,1,A,High,0.478,435.0,Balanced
+87,Product_87,Clothing,84.97,145,92,7817.24,35,35,2,A,High,0.44,329.0,Balanced
+179,Product_179,Clothing,85.91,380,86,7388.26,31,30,3,A,High,0.411,923.0,Balanced
+96,Product_96,Home & Kitchen,99.06,252,72,7132.32,28,28,4,A,High,0.344,732.0,Balanced
+54,Product_54,Electronics,82.01,352,86,7052.860000000001,32,31,5,A,High,0.411,855.0,Balanced
+187,Product_187,Beauty & Health,84.34,35,82,6915.88,34,33,6,A,High,0.392,89.0,Restock now (<90 days of cover)
+156,Product_156,Clothing,89.84,134,76,6827.84,33,32,7,A,High,0.364,369.0,Balanced
+57,Product_57,Home & Kitchen,84.9,397,78,6622.2,33,32,8,A,High,0.373,1064.0,Balanced
+200,Product_200,Clothing,93.91,163,69,6479.79,24,24,9,A,High,0.33,494.0,Balanced
+127,Product_127,Electronics,94.35,49,68,6415.8,29,29,10,A,High,0.325,151.0,Balanced
+28,Product_28,Home & Kitchen,92.56,457,69,6386.64,27,27,11,A,High,0.33,1384.0,Balanced
+106,Product_106,Home & Kitchen,99.41,182,63,6262.83,26,26,12,A,High,0.301,604.0,Balanced
+104,Product_104,Clothing,86.53,272,72,6230.16,24,24,13,A,High,0.344,790.0,Balanced
+195,Product_195,Home & Kitchen,71.6,358,87,6229.2,32,32,14,A,High,0.416,860.0,Balanced
+103,Product_103,Beauty & Health,93.81,384,66,6191.46,26,25,15,A,High,0.316,1216.0,Balanced
+85,Product_85,Electronics,99.81,11,62,6188.22,27,27,16,A,High,0.297,37.0,Restock now (<90 days of cover)
+190,Product_190,Beauty & Health,92.82,327,66,6126.12,26,25,17,A,High,0.316,1036.0,Balanced
+75,Product_75,Home & Kitchen,96.74,238,63,6094.62,27,25,18,A,High,0.301,790.0,Balanced
+36,Product_36,Electronics,99.46,357,61,6067.0599999999995,24,24,19,A,High,0.292,1223.0,Balanced
+119,Product_119,Electronics,90.33,17,67,6052.11,26,26,20,A,High,0.321,53.0,Restock now (<90 days of cover)
+116,Product_116,Home & Kitchen,80.45,335,75,6033.75,31,30,21,A,High,0.359,934.0,Balanced
+76,Product_76,Home & Kitchen,94.25,400,64,6032.0,28,28,22,A,High,0.306,1306.0,Balanced
+149,Product_149,Clothing,92.64,291,65,6021.6,32,32,23,A,High,0.311,936.0,Balanced
+151,Product_151,Electronics,78.87,87,76,5994.120000000001,29,28,24,A,High,0.364,239.0,Balanced
+153,Product_153,Electronics,93.43,428,64,5979.52,25,25,25,A,High,0.306,1398.0,Balanced
+18,Product_18,Home & Kitchen,99.35,322,60,5961.0,26,26,26,A,High,0.287,1122.0,Balanced
+39,Product_39,Clothing,95.92,57,62,5947.04,28,27,27,A,High,0.297,192.0,Balanced
+84,Product_84,Electronics,74.47,452,79,5883.13,32,31,28,A,High,0.378,1196.0,Balanced
+19,Product_19,Clothing,96.33,363,61,5876.13,24,23,29,A,High,0.292,1244.0,Balanced
+78,Product_78,Electronics,92.83,472,63,5848.29,26,25,30,A,High,0.301,1566.0,Balanced
+180,Product_180,Clothing,94.76,312,61,5780.36,24,24,31,A,High,0.292,1069.0,Balanced
+16,Product_16,Home & Kitchen,87.93,417,65,5715.450000000001,28,26,32,A,High,0.311,1341.0,Balanced
+8,Product_8,Home & Kitchen,87.2,155,65,5668.0,25,25,33,A,High,0.311,498.0,Balanced
+81,Product_81,Home & Kitchen,76.79,391,73,5605.67,27,26,34,A,High,0.349,1119.0,Balanced
+171,Product_171,Home & Kitchen,69.05,382,81,5593.05,32,31,35,A,High,0.388,986.0,Balanced
+83,Product_83,Home & Kitchen,90.16,16,62,5589.92,25,24,36,A,High,0.297,54.0,Restock now (<90 days of cover)
+189,Product_189,Electronics,82.77,117,66,5462.82,25,24,37,A,High,0.316,371.0,Balanced
+172,Product_172,Beauty & Health,85.78,276,63,5404.14,22,21,38,A,High,0.301,916.0,Balanced
+12,Product_12,Electronics,87.46,389,61,5335.0599999999995,24,24,39,A,High,0.292,1333.0,Balanced
+173,Product_173,Clothing,74.83,381,71,5312.93,27,27,40,A,High,0.34,1122.0,Balanced
+176,Product_176,Home & Kitchen,90.0,266,59,5310.0,22,22,41,A,High,0.282,942.0,Balanced
+42,Product_42,Clothing,82.72,222,64,5294.08,28,28,42,A,High,0.306,725.0,Balanced
+141,Product_141,Clothing,85.04,246,62,5272.4800000000005,28,28,43,A,High,0.297,829.0,Balanced
+2,Product_2,Home & Kitchen,81.6,140,64,5222.4,23,23,44,A,High,0.306,457.0,Balanced
+129,Product_129,Electronics,72.93,165,71,5178.030000000001,29,29,45,A,High,0.34,486.0,Balanced
+44,Product_44,Beauty & Health,81.93,179,63,5161.59,23,22,46,A,High,0.301,594.0,Balanced
+25,Product_25,Beauty & Health,90.34,53,57,5149.38,28,27,47,A,High,0.273,194.0,Balanced
+51,Product_51,Clothing,93.12,199,55,5121.6,20,19,48,A,High,0.263,756.0,Balanced
+181,Product_181,Electronics,69.0,88,74,5106.0,30,29,49,A,High,0.354,249.0,Balanced
+82,Product_82,Clothing,72.65,183,69,5012.85,31,31,50,A,High,0.33,554.0,Balanced
+185,Product_185,Home & Kitchen,90.8,383,55,4994.0,25,25,51,A,Mid,0.263,1455.0,Balanced
+27,Product_27,Electronics,65.77,324,75,4932.75,27,26,52,A,Mid,0.359,903.0,Balanced
+122,Product_122,Clothing,67.99,402,71,4827.29,31,31,53,A,Mid,0.34,1183.0,Balanced
+111,Product_111,Clothing,85.44,158,56,4784.639999999999,29,29,54,A,Mid,0.268,590.0,Balanced
+52,Product_52,Home & Kitchen,80.47,159,59,4747.73,24,24,55,A,Mid,0.282,563.0,Balanced
+71,Product_71,Electronics,53.74,257,88,4729.12,31,31,56,A,Mid,0.421,610.0,Balanced
+6,Product_6,Home & Kitchen,91.73,449,51,4678.2300000000005,22,22,57,A,Mid,0.244,1840.0,Balanced
+69,Product_69,Home & Kitchen,77.71,13,60,4662.599999999999,30,28,58,A,Mid,0.287,45.0,Restock now (<90 days of cover)
+117,Product_117,Home & Kitchen,77.15,449,60,4629.0,26,26,59,A,Mid,0.287,1564.0,Balanced
+58,Product_58,Home & Kitchen,61.64,225,75,4623.0,32,31,60,A,Mid,0.359,627.0,Balanced
+148,Product_148,Beauty & Health,67.98,214,68,4622.64,25,25,61,A,Mid,0.325,658.0,Balanced
+49,Product_49,Beauty & Health,78.21,102,59,4614.389999999999,27,27,62,A,Mid,0.282,361.0,Balanced
+100,Product_100,Clothing,68.85,296,67,4612.95,25,25,63,A,Mid,0.321,923.0,Balanced
+193,Product_193,Clothing,82.2,67,56,4603.2,20,20,64,A,Mid,0.268,250.0,Balanced
+77,Product_77,Home & Kitchen,86.32,333,53,4574.96,24,24,65,A,Mid,0.254,1313.0,Balanced
+10,Product_10,Electronics,57.39,419,79,4533.8099999999995,29,28,66,A,Mid,0.378,1108.0,Balanced
+92,Product_92,Home & Kitchen,91.03,168,49,4460.47,19,19,67,A,Mid,0.234,717.0,Balanced
+114,Product_114,Electronics,78.16,413,57,4455.12,20,20,68,A,Mid,0.273,1514.0,Balanced
+56,Product_56,Electronics,70.21,429,63,4423.23,24,24,69,A,Mid,0.301,1423.0,Balanced
+89,Product_89,Home & Kitchen,72.22,478,61,4405.42,23,23,70,A,Mid,0.292,1638.0,Balanced
+160,Product_160,Beauty & Health,85.88,464,51,4379.88,22,21,71,A,Mid,0.244,1901.0,Balanced
+162,Product_162,Beauty & Health,87.55,79,50,4377.5,24,24,72,A,Mid,0.239,330.0,Balanced
+131,Product_131,Electronics,85.13,376,51,4341.63,23,23,73,A,Mid,0.244,1541.0,Balanced
+168,Product_168,Clothing,71.14,384,60,4268.4,26,26,74,A,Mid,0.287,1338.0,Balanced
+125,Product_125,Beauty & Health,53.93,323,79,4260.47,28,28,75,A,Mid,0.378,855.0,Balanced
+140,Product_140,Beauty & Health,74.78,121,56,4187.68,23,23,76,A,Mid,0.268,452.0,Balanced
+88,Product_88,Electronics,72.79,281,57,4149.030000000001,22,22,77,A,Mid,0.273,1030.0,Balanced
+24,Product_24,Electronics,84.69,59,48,4065.12,20,20,78,A,Mid,0.23,257.0,Balanced
+94,Product_94,Home & Kitchen,66.29,169,61,4043.6900000000005,23,23,79,A,Mid,0.292,579.0,Balanced
+134,Product_134,Beauty & Health,52.27,323,77,4024.79,32,32,80,A,Mid,0.368,877.0,Balanced
+128,Product_128,Clothing,62.76,280,64,4016.64,23,23,81,A,Mid,0.306,914.0,Balanced
+145,Product_145,Home & Kitchen,66.0,303,59,3894.0,26,26,82,A,Mid,0.282,1073.0,Balanced
+73,Product_73,Home & Kitchen,68.55,188,56,3838.7999999999997,23,23,83,A,Mid,0.268,702.0,Balanced
+124,Product_124,Clothing,97.86,498,39,3816.54,17,17,84,A,Mid,0.187,2669.0,Balanced
+55,Product_55,Electronics,67.76,135,56,3794.5600000000004,21,21,85,A,Mid,0.268,504.0,Balanced
+107,Product_107,Beauty & Health,72.89,220,52,3790.2799999999997,21,21,86,A,Mid,0.249,884.0,Balanced
+80,Product_80,Electronics,58.28,90,65,3788.2000000000003,25,24,87,A,Mid,0.311,289.0,Balanced
+3,Product_3,Home & Kitchen,78.72,473,48,3778.56,21,21,88,A,Mid,0.23,2060.0,Balanced
+59,Product_59,Home & Kitchen,51.94,391,72,3739.68,32,31,89,A,Mid,0.344,1135.0,Balanced
+79,Product_79,Clothing,50.42,303,74,3731.08,30,30,90,A,Mid,0.354,856.0,Balanced
+196,Product_196,Home & Kitchen,66.05,490,55,3632.75,22,21,91,A,Mid,0.263,1862.0,Balanced
+38,Product_38,Electronics,52.63,195,68,3578.84,25,25,92,A,Mid,0.325,599.0,Balanced
+7,Product_7,Home & Kitchen,58.2,319,61,3550.2000000000003,20,19,93,A,Mid,0.292,1093.0,Balanced
+130,Product_130,Electronics,57.27,242,59,3378.9300000000003,23,23,94,A,Mid,0.282,857.0,Balanced
+177,Product_177,Clothing,39.0,277,86,3354.0,30,30,95,A,Mid,0.411,673.0,Balanced
+102,Product_102,Beauty & Health,64.32,141,52,3344.64,22,22,96,A,Mid,0.249,567.0,Balanced
+143,Product_143,Clothing,60.78,207,55,3342.9,21,20,97,A,Mid,0.263,787.0,Balanced
+169,Product_169,Home & Kitchen,53.88,446,62,3340.56,28,28,98,A,Mid,0.297,1503.0,Balanced
+136,Product_136,Home & Kitchen,73.53,38,45,3308.85,15,15,99,A,Mid,0.215,176.0,Balanced
+15,Product_15,Home & Kitchen,46.59,373,71,3307.8900000000003,30,29,100,A,Mid,0.34,1098.0,Balanced
+137,Product_137,Electronics,45.43,318,72,3270.96,26,26,101,A,Mid,0.344,923.0,Balanced
+167,Product_167,Beauty & Health,66.2,102,49,3243.8,20,20,102,A,Mid,0.234,435.0,Balanced
+29,Product_29,Electronics,51.74,457,62,3207.88,24,24,103,A,Mid,0.297,1541.0,Balanced
+115,Product_115,Clothing,62.75,76,51,3200.25,20,20,104,A,Mid,0.244,311.0,Balanced
+191,Product_191,Home & Kitchen,48.47,447,66,3199.02,25,25,105,A,Mid,0.316,1416.0,Balanced
+147,Product_147,Clothing,53.98,238,59,3184.8199999999997,26,25,106,A,Mid,0.282,843.0,Balanced
+11,Product_11,Electronics,58.55,112,54,3161.7,23,22,107,A,Mid,0.258,433.0,Balanced
+68,Product_68,Beauty & Health,42.59,74,74,3151.6600000000003,30,29,108,A,Mid,0.354,209.0,Balanced
+182,Product_182,Electronics,30.83,386,102,3144.66,38,37,109,A,Mid,0.488,791.0,Balanced
+47,Product_47,Clothing,56.53,34,55,3109.15,24,23,110,A,Mid,0.263,129.0,Balanced
+67,Product_67,Electronics,64.75,223,48,3108.0,17,17,111,A,Mid,0.23,971.0,Balanced
+198,Product_198,Electronics,86.03,284,36,3097.08,15,15,112,A,Mid,0.172,1649.0,Balanced
+99,Product_99,Home & Kitchen,44.37,459,69,3061.5299999999997,30,29,113,A,Mid,0.33,1390.0,Balanced
+194,Product_194,Home & Kitchen,57.65,433,53,3055.45,23,23,114,A,Mid,0.254,1707.0,Balanced
+188,Product_188,Beauty & Health,36.22,86,84,3042.48,32,32,115,A,Mid,0.402,214.0,Balanced
+63,Product_63,Electronics,65.49,76,46,3012.54,22,21,116,A,Mid,0.22,345.0,Balanced
+152,Product_152,Electronics,63.79,24,47,2998.13,22,22,117,A,Mid,0.225,107.0,Balanced
+90,Product_90,Beauty & Health,39.33,36,74,2910.42,31,31,118,A,Mid,0.354,102.0,Balanced
+74,Product_74,Clothing,42.05,363,69,2901.45,25,23,119,B,Mid,0.33,1100.0,Balanced
+154,Product_154,Home & Kitchen,45.85,219,63,2888.55,29,29,120,B,Mid,0.301,727.0,Balanced
+192,Product_192,Beauty & Health,42.85,181,67,2870.9500000000003,28,26,121,B,Mid,0.321,565.0,Balanced
+91,Product_91,Home & Kitchen,80.7,69,35,2824.5,17,17,122,B,Mid,0.167,412.0,Balanced
+184,Product_184,Home & Kitchen,51.99,215,54,2807.46,23,22,123,B,Mid,0.258,832.0,Balanced
+174,Product_174,Beauty & Health,84.7,123,33,2795.1,15,15,124,B,Mid,0.158,779.0,Balanced
+121,Product_121,Beauty & Health,59.81,428,46,2751.26,20,20,125,B,Mid,0.22,1945.0,Balanced
+95,Product_95,Beauty & Health,45.29,496,60,2717.4,24,24,126,B,Mid,0.287,1728.0,Balanced
+155,Product_155,Electronics,38.72,274,70,2710.4,26,25,127,B,Mid,0.335,818.0,Balanced
+50,Product_50,Beauty & Health,67.71,160,40,2708.3999999999996,19,19,128,B,Mid,0.191,836.0,Balanced
+32,Product_32,Electronics,43.82,381,61,2673.02,26,25,129,B,Mid,0.292,1305.0,Balanced
+72,Product_72,Home & Kitchen,46.64,481,57,2658.48,24,24,130,B,Mid,0.273,1764.0,Balanced
+37,Product_37,Home & Kitchen,58.92,202,45,2651.4,16,16,131,B,Mid,0.215,938.0,Balanced
+97,Product_97,Beauty & Health,53.09,345,49,2601.4100000000003,20,20,132,B,Mid,0.234,1472.0,Balanced
+70,Product_70,Electronics,43.77,458,57,2494.8900000000003,26,26,133,B,Mid,0.273,1679.0,Balanced
+98,Product_98,Electronics,30.55,498,79,2413.4500000000003,27,26,134,B,Mid,0.378,1317.0,Balanced
+183,Product_183,Beauty & Health,32.66,157,73,2384.18,30,30,135,B,Mid,0.349,449.0,Balanced
+60,Product_60,Beauty & Health,67.3,242,35,2355.5,14,14,136,B,Mid,0.167,1445.0,Balanced
+31,Product_31,Electronics,51.2,264,46,2355.2,20,19,137,B,Mid,0.22,1199.0,Balanced
+165,Product_165,Beauty & Health,46.15,124,51,2353.65,22,20,138,B,Mid,0.244,508.0,Balanced
+93,Product_93,Clothing,29.67,0,79,2343.9300000000003,29,28,139,B,Mid,0.378,0.0,Out of stock
+61,Product_61,Clothing,36.82,105,61,2246.02,21,21,140,B,Mid,0.292,360.0,Balanced
+23,Product_23,Beauty & Health,41.4,284,52,2152.8,21,21,141,B,Mid,0.249,1141.0,Balanced
+45,Product_45,Electronics,34.44,417,60,2066.3999999999996,23,23,142,B,Mid,0.287,1453.0,Balanced
+138,Product_138,Beauty & Health,34.54,127,59,2037.86,24,24,143,B,Mid,0.282,450.0,Balanced
+166,Product_166,Beauty & Health,26.81,145,76,2037.56,33,33,144,B,Mid,0.364,399.0,Balanced
+34,Product_34,Home & Kitchen,49.48,332,41,2028.6799999999998,17,17,145,B,Mid,0.196,1692.0,Balanced
+22,Product_22,Beauty & Health,23.28,85,85,1978.8000000000002,35,35,146,B,Mid,0.407,209.0,Balanced
+163,Product_163,Clothing,50.61,422,39,1973.79,20,20,147,B,Mid,0.187,2261.0,Balanced
+120,Product_120,Electronics,30.43,354,64,1947.52,23,23,148,B,Mid,0.306,1156.0,Balanced
+33,Product_33,Clothing,61.99,212,31,1921.69,12,12,149,B,Mid,0.148,1429.0,Balanced
+48,Product_48,Clothing,27.7,358,69,1911.3,26,26,150,B,Mid,0.33,1084.0,Balanced
+150,Product_150,Beauty & Health,44.32,223,43,1905.76,19,19,151,B,Low,0.206,1084.0,Balanced
+1,Product_1,Clothing,46.11,22,40,1844.4,18,18,152,B,Low,0.191,115.0,Balanced
+43,Product_43,Beauty & Health,33.47,368,55,1840.85,23,23,153,B,Low,0.263,1398.0,Balanced
+86,Product_86,Home & Kitchen,41.37,165,44,1820.28,18,18,154,B,Low,0.211,784.0,Balanced
+113,Product_113,Clothing,30.98,135,58,1796.84,25,24,155,B,Low,0.278,486.0,Balanced
+62,Product_62,Home & Kitchen,26.43,70,66,1744.38,28,27,156,B,Low,0.316,222.0,Balanced
+199,Product_199,Home & Kitchen,27.62,442,62,1712.44,23,23,157,B,Low,0.297,1490.0,"Overstock (weak seller, high stock)"
+175,Product_175,Home & Kitchen,28.05,413,61,1711.0500000000002,25,25,158,B,Low,0.292,1415.0,"Overstock (weak seller, high stock)"
+197,Product_197,Electronics,23.76,158,71,1686.96,27,27,159,B,Low,0.34,465.0,Balanced
+144,Product_144,Clothing,30.49,314,55,1676.9499999999998,24,24,160,B,Low,0.263,1193.0,Balanced
+110,Product_110,Beauty & Health,25.42,364,65,1652.3000000000002,24,24,161,B,Low,0.311,1170.0,Balanced
+108,Product_108,Home & Kitchen,24.61,52,66,1624.26,29,29,162,B,Low,0.316,165.0,Balanced
+14,Product_14,Electronics,31.64,421,51,1613.64,21,21,163,B,Low,0.244,1725.0,"Overstock (weak seller, high stock)"
+40,Product_40,Clothing,24.03,493,67,1610.01,26,25,164,B,Low,0.321,1538.0,"Overstock (weak seller, high stock)"
+13,Product_13,Electronics,18.78,138,85,1596.3000000000002,34,33,165,B,Low,0.407,339.0,Balanced
+64,Product_64,Home & Kitchen,31.05,53,51,1583.55,21,21,166,C,Low,0.244,217.0,Balanced
+26,Product_26,Home & Kitchen,26.82,92,57,1528.74,26,25,167,C,Low,0.273,337.0,Balanced
+53,Product_53,Electronics,26.27,182,58,1523.66,24,24,168,C,Low,0.278,656.0,Balanced
+123,Product_123,Beauty & Health,25.18,204,58,1460.44,27,26,169,C,Low,0.278,735.0,Balanced
+133,Product_133,Home & Kitchen,34.15,163,41,1400.1499999999999,17,17,170,C,Low,0.196,831.0,Balanced
+186,Product_186,Beauty & Health,23.46,300,58,1360.68,26,26,171,C,Low,0.278,1081.0,Balanced
+65,Product_65,Clothing,17.19,276,75,1289.25,28,27,172,C,Low,0.359,769.0,Balanced
+101,Product_101,Home & Kitchen,16.85,430,76,1280.6000000000001,29,28,173,C,Low,0.364,1183.0,"Overstock (weak seller, high stock)"
+4,Product_4,Clothing,22.06,386,58,1279.48,25,25,174,C,Low,0.278,1391.0,"Overstock (weak seller, high stock)"
+142,Product_142,Home & Kitchen,45.55,185,27,1229.85,11,11,175,C,Low,0.129,1432.0,Balanced
+135,Product_135,Beauty & Health,16.89,55,65,1097.8500000000001,21,21,176,C,Low,0.311,177.0,Balanced
+126,Product_126,Electronics,15.19,82,71,1078.49,27,27,177,C,Low,0.34,241.0,Balanced
+170,Product_170,Clothing,13.65,386,78,1064.7,30,29,178,C,Low,0.373,1034.0,"Overstock (weak seller, high stock)"
+30,Product_30,Home & Kitchen,19.32,372,55,1062.6,21,21,179,C,Low,0.263,1414.0,Balanced
+118,Product_118,Beauty & Health,14.55,44,72,1047.6,26,26,180,C,Low,0.344,128.0,Balanced
+158,Product_158,Beauty & Health,22.27,441,47,1046.69,21,21,181,C,Low,0.225,1961.0,"Overstock (weak seller, high stock)"
+41,Product_41,Clothing,27.03,255,35,946.0500000000001,16,16,182,C,Low,0.167,1523.0,Balanced
+9,Product_9,Clothing,15.23,470,60,913.8,20,20,183,C,Low,0.287,1637.0,"Overstock (weak seller, high stock)"
+5,Product_5,Beauty & Health,17.97,284,47,844.5899999999999,16,16,184,C,Low,0.225,1263.0,Balanced
+146,Product_146,Beauty & Health,11.09,388,76,842.84,33,33,185,C,Low,0.364,1067.0,"Overstock (weak seller, high stock)"
+105,Product_105,Beauty & Health,16.09,224,52,836.6800000000001,20,19,186,C,Low,0.249,900.0,Balanced
+112,Product_112,Electronics,11.95,445,70,836.5,32,32,187,C,Low,0.335,1329.0,"Overstock (weak seller, high stock)"
+132,Product_132,Electronics,12.98,478,63,817.74,28,28,188,C,Low,0.301,1586.0,"Overstock (weak seller, high stock)"
+157,Product_157,Beauty & Health,14.43,491,56,808.0799999999999,28,28,189,C,Low,0.268,1832.0,"Overstock (weak seller, high stock)"
+46,Product_46,Home & Kitchen,12.99,361,60,779.4,25,24,190,C,Low,0.287,1257.0,Balanced
+164,Product_164,Clothing,10.36,254,73,756.28,31,30,191,C,Low,0.349,727.0,Balanced
+109,Product_109,Home & Kitchen,11.12,117,66,733.92,28,28,192,C,Low,0.316,371.0,Balanced
+21,Product_21,Home & Kitchen,14.29,481,49,700.2099999999999,21,20,193,C,Low,0.234,2052.0,"Overstock (weak seller, high stock)"
+35,Product_35,Beauty & Health,11.56,9,57,658.9200000000001,25,25,194,C,Low,0.273,33.0,Restock now (<90 days of cover)
+66,Product_66,Beauty & Health,10.05,110,62,623.1,25,24,195,C,Low,0.297,371.0,Balanced
+178,Product_178,Clothing,11.21,110,55,616.5500000000001,26,26,196,C,Low,0.263,418.0,Balanced
+20,Product_20,Beauty & Health,10.53,429,58,610.74,23,23,197,C,Low,0.278,1546.0,"Overstock (weak seller, high stock)"
+159,Product_159,Beauty & Health,17.42,232,35,609.7,20,20,198,C,Low,0.167,1385.0,Balanced
+161,Product_161,Clothing,10.95,65,50,547.5,22,22,199,C,Low,0.239,272.0,Balanced
+139,Product_139,Beauty & Health,10.3,390,47,484.1,18,18,200,C,Low,0.225,1734.0,"Overstock (weak seller, high stock)"

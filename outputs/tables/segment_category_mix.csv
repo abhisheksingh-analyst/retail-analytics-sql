@@ -1,0 +1,21 @@
+Segment,Category,revenue,pct_of_segment
+1 Champions,Home & Kitchen,90731.23,29.6
+1 Champions,Electronics,79586.05,26.0
+1 Champions,Clothing,73704.68,24.1
+1 Champions,Beauty & Health,62061.66,20.3
+2 At-Risk High Value,Home & Kitchen,64044.1,30.6
+2 At-Risk High Value,Electronics,54196.64,25.9
+2 At-Risk High Value,Clothing,48483.62,23.2
+2 At-Risk High Value,Beauty & Health,42634.81,20.4
+3 Loyal,Home & Kitchen,10439.63,31.4
+3 Loyal,Beauty & Health,8803.78,26.4
+3 Loyal,Electronics,7516.29,22.6
+3 Loyal,Clothing,6538.47,19.6
+4 Recent / Promising,Home & Kitchen,24507.48,36.8
+4 Recent / Promising,Clothing,15205.38,22.9
+4 Recent / Promising,Electronics,14961.22,22.5
+4 Recent / Promising,Beauty & Health,11869.41,17.8
+5 Hibernating,Home & Kitchen,28033.5,32.3
+5 Hibernating,Electronics,21288.28,24.5
+5 Hibernating,Clothing,18942.06,21.8
+5 Hibernating,Beauty & Health,18455.33,21.3

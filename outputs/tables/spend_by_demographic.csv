@@ -1,0 +1,16 @@
+dimension,value,customers,avg_purchases,avg_revenue
+Gender,Female,312,5.02,708.57
+Gender,Male,325,4.95,690.42
+Gender,Other,352,5.18,728.82
+Location,East,223,5.09,712.68
+Location,North,245,5.04,699.01
+Location,South,239,4.96,691.3
+Location,Unknown,13,5.31,723.19
+Location,West,269,5.11,733.07
+AgeGroup,Unknown,1,2.0,213.57
+AgeGroup,18-24,128,4.94,696.14
+AgeGroup,25-34,189,4.82,668.16
+AgeGroup,35-44,184,4.78,701.74
+AgeGroup,45-54,182,5.31,751.85
+AgeGroup,55-64,201,5.3,722.74
+AgeGroup,65+,104,5.24,722.82

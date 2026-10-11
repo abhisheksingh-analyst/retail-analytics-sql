@@ -1,0 +1,11 @@
+RevenueRank,ProductName,Category,Price,Units,Revenue,StockLevel,InventoryFlag
+1,Product_17,Beauty & Health,94.5,100,9450.0,208,Balanced
+2,Product_87,Clothing,84.97,92,7817.24,145,Balanced
+3,Product_179,Clothing,85.91,86,7388.26,380,Balanced
+4,Product_96,Home & Kitchen,99.06,72,7132.32,252,Balanced
+5,Product_54,Electronics,82.01,86,7052.86,352,Balanced
+6,Product_187,Beauty & Health,84.34,82,6915.88,35,Restock now (<90 days of cover)
+7,Product_156,Clothing,89.84,76,6827.84,134,Balanced
+8,Product_57,Home & Kitchen,84.9,78,6622.2,397,Balanced
+9,Product_200,Clothing,93.91,69,6479.79,163,Balanced
+10,Product_127,Electronics,94.35,68,6415.8,49,Balanced

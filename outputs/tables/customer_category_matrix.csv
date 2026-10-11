@@ -1,0 +1,2840 @@
+CustomerID,Category,revenue
+1,Beauty & Health,84.7
+1,Clothing,444.92
+1,Electronics,157.42
+1,Home & Kitchen,501.0
+2,Beauty & Health,390.82
+2,Clothing,207.57
+2,Home & Kitchen,297.18
+3,Beauty & Health,296.67
+3,Electronics,131.46
+3,Home & Kitchen,84.9
+4,Electronics,75.12
+4,Home & Kitchen,98.96
+5,Beauty & Health,454.31
+5,Electronics,128.42
+6,Home & Kitchen,80.7
+7,Beauty & Health,46.56
+7,Clothing,292.94
+7,Electronics,276.0
+7,Home & Kitchen,768.36
+8,Beauty & Health,206.14
+8,Clothing,918.47
+8,Home & Kitchen,172.64
+9,Clothing,151.83
+9,Home & Kitchen,498.1
+10,Beauty & Health,101.82
+10,Electronics,23.76
+10,Home & Kitchen,252.32
+11,Beauty & Health,50.36
+11,Electronics,443.27
+11,Home & Kitchen,80.7
+12,Beauty & Health,174.25
+12,Clothing,257.73
+12,Electronics,449.76
+12,Home & Kitchen,544.57
+13,Beauty & Health,551.8
+13,Clothing,113.06
+13,Electronics,262.38
+14,Beauty & Health,31.59
+14,Home & Kitchen,404.5
+15,Beauty & Health,149.56
+15,Clothing,259.79
+15,Home & Kitchen,339.6
+16,Beauty & Health,312.84
+16,Clothing,74.83
+16,Electronics,129.5
+16,Home & Kitchen,308.64
+17,Beauty & Health,343.12
+17,Clothing,400.99
+17,Electronics,161.22
+17,Home & Kitchen,72.42
+18,Home & Kitchen,91.07
+19,Clothing,62.75
+19,Electronics,802.38
+19,Home & Kitchen,343.98
+20,Beauty & Health,346.02
+20,Clothing,577.98
+20,Electronics,155.22
+20,Home & Kitchen,95.73
+21,Beauty & Health,196.52
+21,Clothing,125.29
+21,Electronics,621.93
+22,Beauty & Health,157.32
+22,Clothing,527.38
+22,Electronics,233.12
+22,Home & Kitchen,321.8
+23,Beauty & Health,605.47
+23,Home & Kitchen,77.15
+24,Home & Kitchen,90.8
+25,Beauty & Health,153.94
+25,Clothing,179.02
+25,Electronics,60.86
+25,Home & Kitchen,132.58
+26,Clothing,392.4
+26,Electronics,300.39
+26,Home & Kitchen,155.82
+27,Beauty & Health,177.28
+27,Clothing,339.88
+27,Electronics,38.94
+28,Beauty & Health,75.54
+28,Clothing,94.76
+28,Electronics,203.28
+28,Home & Kitchen,301.41
+29,Beauty & Health,61.25
+29,Electronics,310.18
+29,Home & Kitchen,257.64
+30,Beauty & Health,171.76
+30,Clothing,108.12
+31,Beauty & Health,203.94
+31,Home & Kitchen,90.8
+32,Beauty & Health,10.53
+32,Home & Kitchen,72.22
+33,Beauty & Health,360.56
+33,Electronics,197.31
+34,Electronics,89.2
+34,Home & Kitchen,93.18
+35,Beauty & Health,621.8
+35,Electronics,345.61
+35,Home & Kitchen,418.5
+36,Clothing,475.47
+36,Home & Kitchen,56.1
+37,Beauty & Health,69.84
+37,Clothing,85.01
+37,Home & Kitchen,286.8
+38,Clothing,281.73
+38,Electronics,156.32
+38,Home & Kitchen,185.12
+39,Beauty & Health,451.73
+39,Clothing,531.0
+39,Electronics,43.82
+39,Home & Kitchen,1194.74
+40,Beauty & Health,100.41
+40,Clothing,467.68
+40,Electronics,351.99
+41,Beauty & Health,210.6
+41,Clothing,222.75
+41,Electronics,222.83
+41,Home & Kitchen,466.24
+42,Beauty & Health,180.41
+42,Clothing,67.99
+42,Home & Kitchen,195.14
+43,Beauty & Health,78.8
+43,Clothing,328.8
+43,Electronics,87.64
+43,Home & Kitchen,249.91
+44,Clothing,179.68
+44,Electronics,72.93
+44,Home & Kitchen,110.48
+45,Home & Kitchen,241.35
+46,Beauty & Health,312.84
+46,Home & Kitchen,266.33
+47,Beauty & Health,61.52
+47,Clothing,444.78
+47,Home & Kitchen,501.07
+48,Beauty & Health,171.4
+48,Clothing,226.23
+49,Beauty & Health,34.54
+49,Clothing,596.55
+49,Electronics,69.0
+49,Home & Kitchen,78.72
+50,Beauty & Health,50.36
+50,Clothing,74.83
+51,Beauty & Health,149.56
+51,Electronics,335.14
+51,Home & Kitchen,183.12
+53,Beauty & Health,190.76
+53,Clothing,60.92
+53,Electronics,175.1
+53,Home & Kitchen,220.59
+54,Beauty & Health,502.82
+54,Electronics,434.36
+54,Home & Kitchen,386.96
+55,Beauty & Health,43.65
+55,Clothing,284.28
+55,Electronics,308.55
+55,Home & Kitchen,160.9
+56,Home & Kitchen,151.15
+57,Beauty & Health,92.88
+57,Home & Kitchen,186.36
+58,Clothing,145.3
+58,Electronics,500.02
+58,Home & Kitchen,370.24
+59,Beauty & Health,42.59
+59,Clothing,20.72
+59,Electronics,145.86
+59,Home & Kitchen,234.72
+60,Beauty & Health,100.41
+60,Clothing,142.28
+60,Electronics,556.98
+61,Electronics,248.31
+61,Home & Kitchen,270.31
+62,Beauty & Health,201.9
+62,Electronics,357.52
+62,Home & Kitchen,386.96
+63,Electronics,377.34
+63,Home & Kitchen,817.22
+64,Electronics,87.64
+64,Home & Kitchen,62.1
+65,Beauty & Health,70.45
+65,Clothing,383.68
+65,Home & Kitchen,405.14
+66,Beauty & Health,197.58
+66,Clothing,603.23
+66,Electronics,298.38
+66,Home & Kitchen,16.85
+67,Beauty & Health,57.72
+67,Clothing,385.86
+68,Beauty & Health,58.3
+68,Home & Kitchen,99.35
+69,Beauty & Health,215.72
+69,Clothing,682.97
+69,Home & Kitchen,559.48
+70,Clothing,169.59
+70,Electronics,172.17
+70,Home & Kitchen,372.25
+72,Beauty & Health,92.82
+72,Electronics,26.27
+72,Home & Kitchen,364.8
+73,Beauty & Health,196.13
+73,Clothing,53.98
+73,Electronics,373.72
+73,Home & Kitchen,49.22
+74,Beauty & Health,53.62
+74,Clothing,30.46
+75,Beauty & Health,905.7
+75,Clothing,373.14
+75,Electronics,174.84
+75,Home & Kitchen,409.05
+76,Beauty & Health,33.47
+76,Electronics,298.89
+76,Home & Kitchen,51.94
+77,Beauty & Health,11.09
+77,Home & Kitchen,80.7
+78,Beauty & Health,326.4
+78,Electronics,456.45
+78,Home & Kitchen,652.99
+79,Clothing,151.26
+79,Home & Kitchen,488.71
+80,Clothing,30.98
+80,Electronics,99.81
+81,Beauty & Health,197.17
+81,Clothing,72.65
+81,Home & Kitchen,505.08
+82,Clothing,84.1
+82,Electronics,30.38
+82,Home & Kitchen,154.27
+83,Beauty & Health,78.21
+83,Clothing,181.43
+83,Electronics,138.0
+84,Beauty & Health,616.02
+84,Clothing,131.8
+84,Home & Kitchen,406.86
+85,Beauty & Health,262.65
+85,Clothing,572.33
+86,Beauty & Health,558.79
+86,Clothing,308.56
+87,Beauty & Health,97.76
+87,Clothing,105.52
+87,Electronics,385.69
+88,Beauty & Health,185.64
+88,Clothing,68.76
+88,Electronics,365.18
+89,Beauty & Health,69.84
+89,Clothing,55.4
+89,Electronics,505.92
+89,Home & Kitchen,235.68
+90,Clothing,201.68
+90,Electronics,207.0
+90,Home & Kitchen,510.88
+91,Clothing,110.46
+91,Home & Kitchen,42.87
+92,Beauty & Health,309.08
+92,Clothing,50.42
+92,Electronics,71.28
+92,Home & Kitchen,176.94
+93,Beauty & Health,25.18
+93,Home & Kitchen,405.85
+94,Home & Kitchen,360.64
+95,Clothing,470.1
+95,Home & Kitchen,475.61
+96,Beauty & Health,156.42
+96,Electronics,349.84
+96,Home & Kitchen,395.45
+97,Beauty & Health,189.0
+97,Clothing,72.65
+97,Electronics,38.72
+98,Beauty & Health,233.36
+98,Electronics,53.74
+98,Home & Kitchen,144.44
+99,Beauty & Health,180.19
+99,Clothing,431.01
+99,Electronics,444.15
+99,Home & Kitchen,492.01
+100,Home & Kitchen,608.6
+101,Beauty & Health,50.42
+101,Clothing,39.0
+101,Home & Kitchen,198.87
+102,Beauty & Health,130.64
+102,Electronics,204.25
+102,Home & Kitchen,304.23
+103,Beauty & Health,385.41
+103,Electronics,91.29
+103,Home & Kitchen,129.8
+104,Clothing,346.12
+104,Electronics,165.74
+104,Home & Kitchen,533.16
+105,Clothing,170.08
+105,Electronics,92.83
+105,Home & Kitchen,38.97
+106,Beauty & Health,14.43
+106,Clothing,34.38
+106,Electronics,170.02
+106,Home & Kitchen,238.95
+107,Beauty & Health,361.44
+107,Home & Kitchen,184.92
+108,Beauty & Health,44.54
+108,Clothing,299.32
+108,Electronics,291.16
+108,Home & Kitchen,619.06
+109,Beauty & Health,307.04
+109,Clothing,92.94
+109,Electronics,381.81
+109,Home & Kitchen,282.51
+110,Home & Kitchen,236.16
+111,Beauty & Health,41.4
+111,Clothing,30.49
+111,Electronics,310.48
+111,Home & Kitchen,346.78
+112,Clothing,72.65
+112,Electronics,148.94
+112,Home & Kitchen,270.0
+113,Beauty & Health,67.56
+113,Clothing,837.35
+113,Electronics,285.05
+113,Home & Kitchen,335.5
+114,Beauty & Health,132.4
+114,Electronics,249.34
+114,Home & Kitchen,192.68
+115,Clothing,208.54
+115,Electronics,338.76
+115,Home & Kitchen,298.23
+116,Beauty & Health,53.93
+116,Home & Kitchen,340.38
+117,Beauty & Health,410.66
+117,Clothing,652.58
+117,Home & Kitchen,241.16
+118,Beauty & Health,591.64
+118,Clothing,439.6
+118,Electronics,485.66
+119,Beauty & Health,88.64
+119,Clothing,739.88
+119,Home & Kitchen,390.49
+120,Beauty & Health,543.26
+120,Electronics,710.67
+120,Home & Kitchen,143.47
+121,Clothing,169.94
+121,Home & Kitchen,67.4
+122,Beauty & Health,44.54
+122,Electronics,473.31
+122,Home & Kitchen,259.89
+123,Clothing,243.37
+124,Beauty & Health,179.59
+124,Clothing,339.88
+124,Electronics,234.2
+124,Home & Kitchen,969.67
+125,Clothing,113.06
+125,Electronics,30.83
+125,Home & Kitchen,31.05
+126,Beauty & Health,50.36
+126,Clothing,169.18
+126,Electronics,82.01
+126,Home & Kitchen,230.6
+127,Beauty & Health,443.93
+127,Clothing,210.89
+127,Electronics,91.29
+127,Home & Kitchen,266.7
+128,Clothing,151.09
+128,Electronics,512.14
+129,Clothing,68.85
+129,Electronics,300.8
+129,Home & Kitchen,307.37
+130,Clothing,719.83
+130,Electronics,331.08
+130,Home & Kitchen,676.4
+131,Beauty & Health,246.14
+131,Clothing,29.67
+131,Home & Kitchen,493.08
+132,Beauty & Health,78.66
+132,Clothing,501.76
+132,Electronics,207.0
+132,Home & Kitchen,254.7
+133,Beauty & Health,257.34
+133,Clothing,215.92
+133,Electronics,524.84
+133,Home & Kitchen,49.22
+134,Beauty & Health,144.88
+134,Clothing,145.3
+134,Electronics,145.86
+135,Clothing,30.98
+135,Electronics,397.84
+136,Home & Kitchen,300.25
+137,Beauty & Health,422.22
+137,Clothing,51.57
+137,Electronics,478.04
+138,Clothing,542.01
+138,Home & Kitchen,276.2
+139,Beauty & Health,42.12
+139,Clothing,30.49
+139,Electronics,267.6
+140,Electronics,206.96
+140,Home & Kitchen,393.7
+141,Beauty & Health,132.96
+141,Clothing,43.8
+141,Electronics,436.65
+141,Home & Kitchen,433.7
+142,Beauty & Health,11.09
+142,Electronics,52.63
+142,Home & Kitchen,202.06
+143,Beauty & Health,327.72
+143,Clothing,169.94
+143,Electronics,813.75
+143,Home & Kitchen,230.37
+144,Beauty & Health,649.82
+144,Electronics,168.87
+144,Home & Kitchen,236.16
+145,Clothing,173.32
+145,Electronics,472.21
+145,Home & Kitchen,451.05
+146,Beauty & Health,132.96
+146,Clothing,42.05
+146,Electronics,386.58
+146,Home & Kitchen,152.7
+147,Beauty & Health,177.28
+147,Clothing,327.82
+147,Electronics,210.52
+147,Home & Kitchen,274.49
+148,Beauty & Health,257.28
+148,Clothing,27.7
+148,Electronics,439.28
+148,Home & Kitchen,218.13
+149,Beauty & Health,278.44
+149,Clothing,294.33
+149,Electronics,206.09
+149,Home & Kitchen,49.22
+150,Beauty & Health,43.65
+151,Beauty & Health,112.1
+151,Clothing,22.06
+151,Electronics,328.04
+152,Beauty & Health,90.34
+152,Clothing,346.12
+152,Electronics,234.2
+152,Home & Kitchen,165.48
+153,Clothing,93.12
+153,Electronics,287.16
+153,Home & Kitchen,198.7
+154,Beauty & Health,104.54
+154,Clothing,78.0
+154,Electronics,468.68
+154,Home & Kitchen,870.67
+155,Electronics,71.28
+155,Home & Kitchen,456.35
+156,Beauty & Health,46.24
+156,Clothing,587.08
+156,Electronics,61.1
+156,Home & Kitchen,323.88
+157,Clothing,248.16
+157,Electronics,597.93
+157,Home & Kitchen,228.66
+158,Clothing,188.25
+158,Home & Kitchen,311.74
+159,Beauty & Health,552.2
+159,Clothing,185.28
+159,Electronics,107.48
+160,Beauty & Health,78.66
+160,Clothing,179.13
+160,Electronics,87.46
+160,Home & Kitchen,512.82
+161,Beauty & Health,321.96
+161,Clothing,257.73
+161,Electronics,343.67
+161,Home & Kitchen,575.0
+162,Beauty & Health,317.74
+162,Electronics,364.57
+162,Home & Kitchen,111.53
+163,Beauty & Health,103.62
+163,Clothing,342.47
+163,Electronics,65.77
+163,Home & Kitchen,186.36
+164,Beauty & Health,53.09
+164,Clothing,243.12
+164,Electronics,263.82
+165,Beauty & Health,794.19
+165,Clothing,96.12
+165,Electronics,166.3
+166,Beauty & Health,180.68
+166,Clothing,84.97
+166,Electronics,283.05
+167,Clothing,72.09
+167,Electronics,304.14
+167,Home & Kitchen,98.04
+168,Beauty & Health,247.49
+168,Clothing,61.99
+168,Electronics,657.06
+169,Home & Kitchen,230.37
+170,Clothing,304.41
+170,Electronics,543.1
+170,Home & Kitchen,241.35
+171,Clothing,303.9
+172,Clothing,422.9
+172,Electronics,223.41
+172,Home & Kitchen,686.35
+173,Beauty & Health,32.66
+173,Clothing,96.12
+173,Electronics,523.66
+173,Home & Kitchen,229.74
+174,Clothing,535.51
+174,Home & Kitchen,377.0
+175,Home & Kitchen,133.79
+176,Beauty & Health,177.28
+176,Home & Kitchen,242.38
+177,Beauty & Health,271.44
+178,Beauty & Health,90.34
+178,Clothing,142.28
+178,Electronics,358.64
+178,Home & Kitchen,73.83
+179,Beauty & Health,84.34
+179,Clothing,27.3
+179,Home & Kitchen,68.55
+180,Beauty & Health,169.4
+180,Electronics,157.74
+180,Home & Kitchen,143.2
+181,Home & Kitchen,298.23
+182,Beauty & Health,304.16
+182,Clothing,72.65
+182,Electronics,270.99
+182,Home & Kitchen,292.84
+183,Beauty & Health,139.73
+183,Clothing,178.36
+183,Electronics,133.28
+183,Home & Kitchen,91.73
+184,Beauty & Health,152.71
+184,Clothing,95.92
+184,Electronics,188.7
+184,Home & Kitchen,93.18
+185,Beauty & Health,69.84
+186,Beauty & Health,66.81
+186,Home & Kitchen,471.78
+187,Beauty & Health,343.12
+187,Electronics,236.61
+187,Home & Kitchen,307.16
+188,Beauty & Health,428.25
+188,Clothing,428.62
+188,Electronics,92.83
+188,Home & Kitchen,158.75
+189,Home & Kitchen,93.18
+190,Beauty & Health,300.24
+190,Clothing,126.15
+190,Electronics,104.68
+190,Home & Kitchen,309.07
+191,Beauty & Health,69.68
+191,Clothing,513.23
+191,Home & Kitchen,261.6
+192,Clothing,256.04
+192,Electronics,140.42
+192,Home & Kitchen,321.88
+193,Beauty & Health,86.82
+194,Beauty & Health,34.84
+194,Clothing,566.51
+194,Electronics,84.69
+194,Home & Kitchen,103.88
+195,Beauty & Health,104.34
+195,Clothing,341.76
+195,Electronics,137.76
+195,Home & Kitchen,110.48
+196,Beauty & Health,137.02
+196,Clothing,110.8
+196,Electronics,657.38
+196,Home & Kitchen,326.4
+198,Beauty & Health,364.18
+198,Electronics,204.8
+198,Home & Kitchen,304.11
+199,Beauty & Health,31.59
+199,Clothing,299.32
+200,Beauty & Health,92.72
+200,Electronics,210.52
+201,Beauty & Health,298.68
+201,Clothing,449.56
+201,Home & Kitchen,583.05
+202,Beauty & Health,130.64
+202,Clothing,156.24
+202,Electronics,77.44
+202,Home & Kitchen,320.19
+203,Beauty & Health,36.22
+203,Electronics,208.65
+203,Home & Kitchen,364.63
+204,Beauty & Health,46.24
+204,Clothing,517.92
+204,Home & Kitchen,364.12
+205,Beauty & Health,338.8
+205,Electronics,87.46
+206,Beauty & Health,92.3
+206,Clothing,392.61
+206,Home & Kitchen,143.2
+207,Beauty & Health,475.95
+208,Beauty & Health,133.88
+208,Clothing,92.64
+208,Electronics,259.65
+209,Clothing,169.59
+209,Electronics,374.9
+210,Beauty & Health,78.66
+210,Clothing,17.19
+210,Home & Kitchen,549.26
+211,Clothing,89.49
+211,Home & Kitchen,210.64
+212,Clothing,203.97
+213,Beauty & Health,32.66
+213,Clothing,74.83
+213,Electronics,508.27
+213,Home & Kitchen,49.48
+214,Beauty & Health,101.68
+214,Clothing,127.02
+214,Electronics,157.81
+215,Beauty & Health,34.84
+215,Clothing,31.08
+215,Electronics,131.46
+216,Beauty & Health,362.16
+216,Clothing,190.58
+216,Electronics,357.36
+216,Home & Kitchen,198.7
+217,Beauty & Health,503.8
+217,Clothing,123.92
+217,Home & Kitchen,198.0
+218,Beauty & Health,310.95
+218,Clothing,143.12
+218,Electronics,512.33
+218,Home & Kitchen,66.29
+219,Home & Kitchen,22.24
+220,Beauty & Health,269.46
+220,Clothing,282.82
+220,Electronics,321.51
+220,Home & Kitchen,139.02
+221,Electronics,82.77
+221,Home & Kitchen,249.67
+222,Beauty & Health,53.91
+222,Clothing,240.66
+222,Home & Kitchen,78.72
+223,Beauty & Health,236.0
+223,Clothing,209.0
+223,Electronics,265.47
+223,Home & Kitchen,348.64
+224,Beauty & Health,273.02
+224,Clothing,153.86
+224,Home & Kitchen,107.76
+225,Beauty & Health,271.02
+225,Clothing,259.59
+225,Electronics,297.88
+225,Home & Kitchen,471.86
+226,Beauty & Health,53.09
+226,Clothing,519.83
+226,Electronics,57.39
+226,Home & Kitchen,384.88
+227,Beauty & Health,135.87
+227,Clothing,688.81
+227,Home & Kitchen,597.15
+228,Beauty & Health,202.02
+228,Electronics,12.98
+228,Home & Kitchen,340.71
+229,Beauty & Health,287.9
+229,Electronics,465.34
+229,Home & Kitchen,80.7
+230,Clothing,138.33
+230,Electronics,328.04
+230,Home & Kitchen,77.15
+231,Beauty & Health,53.24
+231,Clothing,347.22
+231,Electronics,181.72
+231,Home & Kitchen,352.4
+232,Clothing,61.96
+232,Electronics,124.67
+233,Beauty & Health,529.11
+233,Clothing,383.68
+233,Home & Kitchen,658.75
+234,Beauty & Health,90.58
+234,Electronics,374.3
+235,Electronics,121.72
+235,Home & Kitchen,252.42
+236,Clothing,272.3
+236,Home & Kitchen,215.52
+237,Beauty & Health,42.85
+237,Clothing,257.26
+237,Home & Kitchen,51.94
+238,Beauty & Health,371.28
+238,Electronics,414.58
+239,Beauty & Health,14.55
+239,Clothing,195.35
+239,Electronics,157.74
+239,Home & Kitchen,103.98
+240,Electronics,92.83
+241,Electronics,169.38
+241,Home & Kitchen,322.8
+242,Beauty & Health,593.68
+242,Electronics,204.1
+242,Home & Kitchen,186.56
+243,Beauty & Health,133.88
+243,Clothing,10.95
+243,Electronics,292.88
+243,Home & Kitchen,57.96
+244,Beauty & Health,156.42
+244,Home & Kitchen,396.39
+245,Beauty & Health,264.8
+245,Clothing,257.73
+246,Clothing,118.68
+246,Electronics,25.96
+246,Home & Kitchen,211.35
+247,Clothing,198.88
+248,Electronics,58.28
+248,Home & Kitchen,139.77
+249,Clothing,121.96
+249,Home & Kitchen,294.12
+250,Beauty & Health,209.08
+250,Clothing,84.1
+250,Home & Kitchen,666.28
+251,Beauty & Health,75.62
+251,Clothing,217.63
+251,Electronics,175.65
+251,Home & Kitchen,80.47
+252,Electronics,320.51
+253,Beauty & Health,105.12
+253,Electronics,499.97
+253,Home & Kitchen,224.13
+254,Beauty & Health,518.03
+254,Clothing,215.92
+254,Electronics,203.28
+254,Home & Kitchen,490.74
+255,Home & Kitchen,14.29
+256,Beauty & Health,53.09
+256,Clothing,296.68
+256,Home & Kitchen,136.6
+257,Beauty & Health,10.05
+257,Electronics,51.7
+257,Home & Kitchen,364.12
+258,Beauty & Health,184.6
+258,Clothing,338.82
+259,Beauty & Health,348.51
+259,Clothing,255.12
+260,Beauty & Health,360.82
+260,Clothing,247.96
+260,Electronics,87.46
+260,Home & Kitchen,130.34
+261,Electronics,1033.81
+261,Home & Kitchen,501.07
+262,Beauty & Health,278.46
+262,Clothing,20.72
+262,Home & Kitchen,362.02
+263,Beauty & Health,53.93
+263,Clothing,188.28
+263,Electronics,201.51
+264,Beauty & Health,489.08
+264,Electronics,199.62
+264,Home & Kitchen,159.24
+265,Beauty & Health,259.02
+265,Clothing,138.33
+265,Electronics,53.74
+266,Clothing,82.72
+266,Home & Kitchen,373.45
+267,Electronics,57.27
+267,Home & Kitchen,420.6
+268,Beauty & Health,285.99
+268,Clothing,349.49
+268,Electronics,170.23
+268,Home & Kitchen,180.41
+269,Beauty & Health,42.59
+269,Home & Kitchen,153.58
+270,Beauty & Health,165.6
+270,Clothing,230.75
+270,Electronics,148.92
+271,Beauty & Health,187.62
+271,Electronics,131.54
+271,Home & Kitchen,362.13
+272,Beauty & Health,100.41
+272,Home & Kitchen,347.8
+273,Beauty & Health,85.7
+273,Clothing,192.51
+273,Electronics,157.89
+273,Home & Kitchen,235.18
+274,Beauty & Health,176.62
+274,Electronics,296.97
+275,Home & Kitchen,430.6
+276,Clothing,288.99
+276,Electronics,349.84
+276,Home & Kitchen,49.22
+277,Beauty & Health,190.65
+277,Clothing,549.42
+277,Electronics,194.25
+277,Home & Kitchen,229.06
+278,Beauty & Health,210.16
+278,Electronics,270.99
+278,Home & Kitchen,46.59
+279,Beauty & Health,101.3
+279,Electronics,94.06
+279,Home & Kitchen,276.2
+280,Beauty & Health,70.38
+280,Electronics,47.52
+280,Home & Kitchen,286.19
+281,Beauty & Health,101.68
+281,Clothing,465.6
+281,Home & Kitchen,172.64
+282,Beauty & Health,161.79
+282,Home & Kitchen,171.4
+283,Beauty & Health,253.02
+283,Clothing,544.48
+283,Electronics,68.88
+283,Home & Kitchen,321.8
+284,Beauty & Health,293.43
+284,Clothing,188.28
+284,Home & Kitchen,297.54
+285,Beauty & Health,355.78
+285,Clothing,515.97
+285,Electronics,123.32
+286,Beauty & Health,378.0
+286,Clothing,91.47
+286,Electronics,345.35
+287,Beauty & Health,21.06
+287,Clothing,34.38
+287,Electronics,593.29
+287,Home & Kitchen,360.0
+288,Beauty & Health,245.79
+288,Clothing,337.64
+288,Electronics,440.1
+288,Home & Kitchen,137.55
+289,Beauty & Health,281.88
+289,Clothing,142.28
+289,Electronics,397.48
+289,Home & Kitchen,939.86
+290,Beauty & Health,46.15
+290,Electronics,199.62
+290,Home & Kitchen,33.36
+291,Beauty & Health,100.41
+291,Electronics,246.03
+291,Home & Kitchen,38.97
+292,Clothing,95.92
+292,Electronics,87.54
+292,Home & Kitchen,155.82
+293,Clothing,32.85
+293,Electronics,129.16
+293,Home & Kitchen,160.93
+294,Clothing,94.76
+294,Electronics,203.28
+294,Home & Kitchen,181.95
+295,Beauty & Health,283.5
+295,Clothing,92.64
+295,Electronics,30.83
+295,Home & Kitchen,126.76
+296,Beauty & Health,158.5
+296,Clothing,346.12
+296,Electronics,37.56
+296,Home & Kitchen,198.15
+297,Clothing,266.33
+298,Clothing,42.05
+298,Electronics,249.06
+300,Beauty & Health,206.79
+301,Clothing,866.39
+301,Electronics,157.74
+301,Home & Kitchen,156.57
+302,Beauty & Health,428.2
+302,Clothing,461.17
+302,Electronics,387.1
+302,Home & Kitchen,11.12
+303,Beauty & Health,435.34
+303,Clothing,418.98
+303,Electronics,449.05
+303,Home & Kitchen,297.18
+304,Beauty & Health,10.05
+304,Clothing,170.01
+304,Electronics,394.29
+305,Beauty & Health,180.68
+305,Clothing,191.6
+305,Electronics,485.93
+305,Home & Kitchen,525.97
+306,Electronics,183.3
+306,Home & Kitchen,134.53
+307,Clothing,13.65
+307,Home & Kitchen,181.92
+308,Clothing,393.14
+309,Beauty & Health,232.86
+309,Clothing,374.96
+310,Beauty & Health,250.24
+310,Clothing,169.59
+311,Beauty & Health,75.54
+311,Electronics,202.19
+311,Home & Kitchen,248.52
+312,Beauty & Health,375.24
+312,Electronics,591.48
+312,Home & Kitchen,348.8
+313,Clothing,41.44
+313,Electronics,386.31
+313,Home & Kitchen,129.5
+314,Beauty & Health,292.38
+314,Clothing,579.27
+314,Home & Kitchen,82.74
+315,Beauty & Health,53.91
+316,Beauty & Health,52.27
+316,Clothing,427.32
+316,Electronics,94.92
+317,Clothing,257.73
+318,Beauty & Health,479.94
+318,Clothing,749.74
+318,Home & Kitchen,313.4
+319,Beauty & Health,107.24
+319,Electronics,128.68
+320,Beauty & Health,223.86
+320,Clothing,446.12
+320,Electronics,122.2
+320,Home & Kitchen,60.14
+321,Beauty & Health,34.68
+321,Clothing,183.24
+322,Clothing,352.26
+323,Beauty & Health,127.77
+323,Electronics,347.77
+323,Home & Kitchen,419.55
+324,Beauty & Health,388.3
+324,Clothing,333.92
+324,Electronics,180.66
+324,Home & Kitchen,246.03
+325,Home & Kitchen,504.62
+326,Beauty & Health,181.16
+326,Electronics,270.99
+326,Home & Kitchen,285.38
+327,Beauty & Health,80.43
+327,Clothing,287.76
+327,Electronics,153.6
+327,Home & Kitchen,349.45
+328,Beauty & Health,260.34
+328,Clothing,145.3
+329,Beauty & Health,93.12
+329,Clothing,165.44
+329,Electronics,219.99
+329,Home & Kitchen,25.98
+330,Beauty & Health,93.18
+330,Clothing,185.28
+330,Electronics,157.81
+331,Home & Kitchen,485.23
+332,Electronics,414.32
+332,Home & Kitchen,424.3
+333,Beauty & Health,189.0
+334,Beauty & Health,50.67
+334,Clothing,179.68
+334,Electronics,136.29
+334,Home & Kitchen,389.3
+335,Beauty & Health,171.4
+335,Clothing,41.44
+335,Electronics,85.13
+335,Home & Kitchen,472.32
+336,Beauty & Health,343.36
+336,Electronics,90.33
+336,Home & Kitchen,520.1
+337,Beauty & Health,558.84
+337,Electronics,103.48
+338,Beauty & Health,171.9
+338,Clothing,340.16
+338,Electronics,78.16
+338,Home & Kitchen,259.53
+339,Beauty & Health,283.5
+339,Clothing,107.96
+340,Beauty & Health,30.9
+340,Home & Kitchen,303.92
+341,Beauty & Health,85.88
+341,Electronics,566.44
+341,Home & Kitchen,172.95
+342,Beauty & Health,93.12
+342,Clothing,73.14
+342,Electronics,1071.58
+342,Home & Kitchen,155.42
+343,Beauty & Health,94.5
+343,Clothing,89.01
+343,Electronics,15.19
+343,Home & Kitchen,69.05
+344,Beauty & Health,347.54
+344,Clothing,474.45
+344,Electronics,12.98
+344,Home & Kitchen,712.28
+345,Clothing,367.18
+345,Electronics,373.72
+345,Home & Kitchen,113.63
+346,Beauty & Health,205.29
+346,Electronics,291.16
+346,Home & Kitchen,336.61
+347,Clothing,202.44
+347,Electronics,328.04
+348,Beauty & Health,67.56
+348,Clothing,34.38
+348,Electronics,15.19
+348,Home & Kitchen,395.88
+349,Beauty & Health,210.48
+349,Clothing,821.64
+349,Electronics,255.39
+349,Home & Kitchen,278.94
+350,Beauty & Health,22.18
+350,Clothing,892.53
+350,Electronics,123.32
+350,Home & Kitchen,69.05
+351,Beauty & Health,16.89
+351,Home & Kitchen,297.18
+352,Clothing,275.4
+352,Electronics,163.63
+353,Beauty & Health,44.36
+353,Clothing,60.78
+353,Electronics,61.66
+353,Home & Kitchen,309.84
+354,Beauty & Health,413.92
+354,Home & Kitchen,390.2
+355,Home & Kitchen,61.64
+356,Beauty & Health,140.22
+356,Clothing,444.66
+356,Electronics,191.37
+356,Home & Kitchen,193.48
+357,Clothing,251.04
+357,Electronics,58.28
+357,Home & Kitchen,345.28
+358,Beauty & Health,413.43
+358,Clothing,20.72
+358,Home & Kitchen,28.58
+359,Beauty & Health,52.27
+359,Clothing,213.98
+359,Electronics,91.65
+359,Home & Kitchen,252.44
+360,Beauty & Health,34.84
+360,Clothing,276.51
+360,Electronics,654.87
+361,Beauty & Health,93.12
+361,Clothing,78.0
+361,Electronics,130.98
+361,Home & Kitchen,567.51
+362,Beauty & Health,254.1
+362,Electronics,229.08
+362,Home & Kitchen,322.8
+363,Beauty & Health,351.14
+363,Clothing,230.86
+363,Electronics,121.72
+363,Home & Kitchen,123.45
+364,Beauty & Health,350.11
+364,Clothing,385.32
+364,Electronics,516.29
+364,Home & Kitchen,633.68
+365,Beauty & Health,223.74
+365,Clothing,339.88
+365,Electronics,80.1
+365,Home & Kitchen,409.68
+366,Clothing,269.52
+366,Electronics,116.86
+366,Home & Kitchen,11.12
+367,Clothing,193.85
+367,Electronics,172.17
+367,Home & Kitchen,19.32
+368,Beauty & Health,165.6
+369,Clothing,21.9
+369,Home & Kitchen,507.83
+370,Beauty & Health,85.18
+370,Clothing,44.12
+370,Electronics,317.76
+371,Clothing,579.74
+371,Home & Kitchen,354.72
+372,Electronics,91.65
+372,Home & Kitchen,307.16
+373,Beauty & Health,132.12
+373,Clothing,288.99
+373,Electronics,181.82
+374,Beauty & Health,64.65
+374,Clothing,274.91
+374,Electronics,153.6
+374,Home & Kitchen,386.96
+375,Beauty & Health,67.71
+375,Clothing,268.33
+375,Electronics,161.22
+375,Home & Kitchen,80.7
+376,Beauty & Health,132.96
+376,Electronics,338.76
+376,Home & Kitchen,667.36
+377,Beauty & Health,11.09
+377,Clothing,386.85
+377,Electronics,47.52
+377,Home & Kitchen,368.42
+378,Beauty & Health,32.66
+378,Electronics,377.34
+378,Home & Kitchen,677.55
+379,Beauty & Health,26.81
+379,Clothing,339.88
+379,Electronics,351.15
+380,Beauty & Health,163.33
+380,Clothing,151.26
+380,Electronics,215.23
+380,Home & Kitchen,439.16
+381,Beauty & Health,42.87
+381,Clothing,41.44
+381,Electronics,349.84
+381,Home & Kitchen,846.26
+382,Beauty & Health,74.78
+382,Electronics,390.14
+382,Home & Kitchen,442.8
+383,Clothing,223.21
+384,Clothing,375.64
+384,Electronics,11.95
+384,Home & Kitchen,289.25
+385,Beauty & Health,23.28
+385,Clothing,113.06
+385,Electronics,567.69
+385,Home & Kitchen,531.6
+386,Beauty & Health,184.6
+386,Clothing,326.34
+386,Electronics,817.67
+386,Home & Kitchen,222.97
+387,Clothing,204.44
+387,Electronics,638.4
+387,Home & Kitchen,180.32
+388,Electronics,254.07
+388,Home & Kitchen,357.68
+389,Clothing,44.12
+389,Home & Kitchen,270.0
+390,Clothing,93.91
+390,Electronics,347.34
+390,Home & Kitchen,160.9
+391,Beauty & Health,85.18
+391,Electronics,756.82
+392,Beauty & Health,378.0
+392,Clothing,326.08
+392,Electronics,333.4
+392,Home & Kitchen,177.48
+393,Beauty & Health,45.29
+393,Clothing,609.84
+393,Home & Kitchen,715.36
+394,Electronics,425.2
+395,Beauty & Health,64.32
+395,Clothing,184.86
+395,Electronics,91.29
+395,Home & Kitchen,509.33
+396,Beauty & Health,46.56
+396,Clothing,171.82
+396,Electronics,330.06
+397,Beauty & Health,649.5
+397,Clothing,201.93
+397,Electronics,151.0
+397,Home & Kitchen,148.44
+398,Clothing,117.0
+398,Electronics,190.03
+398,Home & Kitchen,81.6
+399,Beauty & Health,159.37
+399,Clothing,305.79
+399,Electronics,291.72
+399,Home & Kitchen,348.8
+400,Beauty & Health,42.85
+400,Electronics,249.46
+400,Home & Kitchen,453.68
+401,Beauty & Health,489.23
+401,Clothing,434.26
+401,Electronics,297.88
+401,Home & Kitchen,561.34
+402,Beauty & Health,247.23
+402,Clothing,156.0
+402,Home & Kitchen,195.55
+403,Beauty & Health,34.84
+403,Clothing,48.06
+403,Electronics,131.31
+404,Clothing,140.74
+404,Home & Kitchen,80.45
+405,Clothing,174.88
+405,Electronics,286.68
+405,Home & Kitchen,91.7
+406,Beauty & Health,178.11
+406,Home & Kitchen,623.05
+407,Beauty & Health,406.38
+407,Electronics,617.62
+407,Home & Kitchen,858.26
+408,Beauty & Health,162.42
+408,Electronics,576.28
+408,Home & Kitchen,66.0
+409,Beauty & Health,104.54
+410,Clothing,332.27
+410,Electronics,47.52
+411,Clothing,458.41
+412,Beauty & Health,437.88
+413,Beauty & Health,93.82
+414,Beauty & Health,14.43
+414,Clothing,251.0
+414,Electronics,227.04
+414,Home & Kitchen,320.16
+415,Beauty & Health,190.32
+415,Home & Kitchen,73.83
+416,Beauty & Health,87.55
+416,Clothing,328.8
+416,Electronics,328.04
+416,Home & Kitchen,230.26
+417,Beauty & Health,274.88
+417,Home & Kitchen,292.92
+418,Beauty & Health,90.58
+418,Clothing,50.42
+418,Electronics,384.92
+419,Beauty & Health,305.6
+419,Clothing,137.7
+419,Electronics,420.96
+419,Home & Kitchen,68.55
+420,Beauty & Health,85.7
+420,Clothing,546.52
+420,Electronics,522.49
+420,Home & Kitchen,219.15
+421,Beauty & Health,144.88
+421,Home & Kitchen,68.3
+422,Beauty & Health,145.15
+422,Clothing,491.19
+422,Home & Kitchen,169.13
+423,Beauty & Health,271.02
+423,Clothing,10.95
+424,Beauty & Health,282.12
+424,Clothing,277.92
+424,Home & Kitchen,246.56
+425,Beauty & Health,138.45
+425,Clothing,287.4
+425,Electronics,399.24
+425,Home & Kitchen,88.74
+426,Beauty & Health,118.12
+426,Clothing,15.23
+426,Home & Kitchen,277.48
+427,Beauty & Health,108.66
+427,Clothing,248.79
+427,Home & Kitchen,458.98
+428,Electronics,567.03
+428,Home & Kitchen,87.2
+429,Beauty & Health,31.59
+429,Electronics,291.72
+429,Home & Kitchen,486.37
+430,Beauty & Health,53.62
+430,Electronics,105.08
+430,Home & Kitchen,67.4
+431,Beauty & Health,257.34
+431,Clothing,170.88
+431,Home & Kitchen,209.71
+432,Beauty & Health,615.59
+432,Clothing,284.28
+432,Electronics,197.31
+434,Home & Kitchen,332.56
+435,Beauty & Health,257.64
+435,Clothing,254.91
+435,Electronics,360.52
+435,Home & Kitchen,1285.91
+436,Clothing,425.84
+436,Electronics,15.19
+436,Home & Kitchen,337.02
+437,Beauty & Health,104.54
+437,Clothing,538.56
+437,Electronics,116.16
+437,Home & Kitchen,73.83
+438,Home & Kitchen,452.84
+439,Beauty & Health,134.67
+440,Beauty & Health,490.12
+440,Electronics,406.89
+440,Home & Kitchen,274.2
+441,Beauty & Health,550.25
+441,Clothing,117.0
+441,Electronics,131.54
+441,Home & Kitchen,288.88
+442,Clothing,314.1
+442,Electronics,462.41
+442,Home & Kitchen,567.44
+443,Beauty & Health,44.32
+443,Clothing,255.51
+443,Home & Kitchen,465.6
+444,Clothing,40.95
+445,Beauty & Health,526.15
+445,Electronics,87.54
+445,Home & Kitchen,372.73
+446,Clothing,67.99
+446,Electronics,60.76
+446,Home & Kitchen,174.4
+447,Beauty & Health,461.51
+447,Home & Kitchen,198.12
+448,Electronics,199.62
+448,Home & Kitchen,373.23
+449,Beauty & Health,234.77
+449,Clothing,89.84
+449,Electronics,93.43
+449,Home & Kitchen,77.15
+450,Beauty & Health,81.93
+450,Clothing,50.61
+450,Electronics,378.28
+450,Home & Kitchen,414.57
+451,Beauty & Health,149.56
+451,Electronics,58.28
+451,Home & Kitchen,386.96
+452,Clothing,171.82
+452,Home & Kitchen,69.05
+453,Beauty & Health,93.12
+453,Clothing,273.72
+453,Home & Kitchen,850.6
+454,Beauty & Health,32.66
+454,Electronics,432.5
+454,Home & Kitchen,188.22
+455,Beauty & Health,139.08
+455,Clothing,672.23
+455,Electronics,236.61
+456,Beauty & Health,234.63
+456,Clothing,730.3
+457,Clothing,44.12
+457,Electronics,257.52
+457,Home & Kitchen,215.52
+458,Beauty & Health,34.54
+458,Home & Kitchen,138.1
+459,Beauty & Health,568.87
+459,Clothing,161.94
+459,Electronics,520.24
+459,Home & Kitchen,213.68
+460,Clothing,682.23
+460,Electronics,238.12
+460,Home & Kitchen,96.74
+461,Beauty & Health,257.28
+461,Clothing,402.19
+461,Electronics,75.12
+462,Clothing,60.92
+462,Electronics,163.5
+462,Home & Kitchen,22.24
+463,Clothing,255.12
+463,Electronics,606.83
+463,Home & Kitchen,566.56
+464,Clothing,10.95
+465,Clothing,330.88
+465,Home & Kitchen,240.87
+466,Beauty & Health,85.78
+466,Clothing,188.25
+466,Electronics,87.64
+466,Home & Kitchen,73.07
+467,Beauty & Health,44.36
+467,Clothing,373.13
+467,Electronics,345.0
+467,Home & Kitchen,27.62
+468,Beauty & Health,181.16
+468,Home & Kitchen,73.83
+469,Beauty & Health,46.56
+469,Clothing,188.25
+469,Electronics,355.2
+469,Home & Kitchen,88.74
+470,Clothing,284.56
+470,Electronics,339.99
+471,Beauty & Health,666.8
+471,Clothing,340.16
+471,Home & Kitchen,461.32
+472,Clothing,92.64
+472,Electronics,229.08
+472,Home & Kitchen,92.56
+473,Beauty & Health,153.92
+473,Clothing,341.76
+473,Electronics,116.16
+473,Home & Kitchen,183.4
+474,Beauty & Health,281.43
+474,Clothing,169.59
+474,Electronics,369.66
+474,Home & Kitchen,326.3
+475,Beauty & Health,46.56
+475,Electronics,124.04
+475,Home & Kitchen,175.86
+476,Beauty & Health,493.06
+476,Clothing,182.34
+476,Electronics,873.88
+476,Home & Kitchen,272.16
+477,Beauty & Health,144.88
+477,Clothing,391.51
+477,Electronics,387.39
+477,Home & Kitchen,66.0
+478,Beauty & Health,76.26
+478,Electronics,291.72
+478,Home & Kitchen,153.58
+479,Clothing,254.91
+480,Electronics,65.49
+480,Home & Kitchen,231.45
+481,Electronics,392.74
+481,Home & Kitchen,198.0
+482,Clothing,485.44
+482,Electronics,297.88
+482,Home & Kitchen,84.15
+483,Clothing,500.36
+483,Electronics,186.86
+483,Home & Kitchen,485.93
+484,Clothing,137.7
+484,Electronics,145.86
+485,Beauty & Health,167.06
+485,Clothing,54.6
+485,Electronics,415.46
+485,Home & Kitchen,489.34
+486,Clothing,20.72
+486,Electronics,323.56
+487,Clothing,60.92
+488,Beauty & Health,289.33
+488,Clothing,67.99
+488,Home & Kitchen,93.28
+489,Beauty & Health,96.08
+489,Clothing,364.45
+489,Electronics,218.79
+490,Beauty & Health,262.65
+490,Clothing,190.17
+490,Home & Kitchen,595.09
+491,Beauty & Health,75.26
+491,Electronics,164.02
+491,Home & Kitchen,207.76
+492,Clothing,294.35
+492,Electronics,315.24
+492,Home & Kitchen,93.18
+493,Beauty & Health,172.96
+493,Home & Kitchen,264.41
+494,Beauty & Health,596.4
+494,Clothing,339.01
+494,Electronics,96.64
+494,Home & Kitchen,175.86
+495,Beauty & Health,156.81
+495,Clothing,95.92
+495,Electronics,197.31
+496,Beauty & Health,94.5
+497,Beauty & Health,207.85
+497,Clothing,288.99
+497,Electronics,388.75
+497,Home & Kitchen,214.18
+498,Beauty & Health,87.55
+498,Clothing,251.04
+498,Home & Kitchen,51.99
+499,Clothing,496.12
+499,Home & Kitchen,327.73
+500,Beauty & Health,146.01
+500,Clothing,250.53
+500,Electronics,419.22
+500,Home & Kitchen,99.35
+501,Electronics,427.56
+501,Home & Kitchen,562.67
+502,Beauty & Health,422.64
+502,Clothing,256.32
+503,Beauty & Health,128.64
+503,Home & Kitchen,722.07
+504,Beauty & Health,62.51
+504,Clothing,88.24
+504,Home & Kitchen,265.16
+505,Beauty & Health,69.84
+505,Home & Kitchen,1169.69
+506,Beauty & Health,32.18
+506,Electronics,257.9
+506,Home & Kitchen,377.03
+507,Beauty & Health,64.32
+507,Clothing,346.12
+507,Electronics,127.58
+508,Beauty & Health,483.72
+508,Clothing,365.69
+508,Electronics,276.0
+509,Clothing,189.52
+509,Electronics,77.44
+509,Home & Kitchen,196.91
+510,Beauty & Health,271.02
+510,Home & Kitchen,299.39
+511,Beauty & Health,170.36
+511,Clothing,553.1
+511,Electronics,230.86
+511,Home & Kitchen,122.92
+512,Clothing,185.28
+512,Electronics,246.03
+512,Home & Kitchen,392.3
+513,Beauty & Health,20.6
+513,Clothing,121.56
+513,Electronics,276.0
+513,Home & Kitchen,177.78
+514,Beauty & Health,46.92
+514,Electronics,65.49
+514,Home & Kitchen,112.95
+515,Beauty & Health,550.36
+515,Electronics,311.08
+515,Home & Kitchen,105.72
+516,Clothing,66.18
+516,Electronics,261.11
+516,Home & Kitchen,576.81
+517,Beauty & Health,144.41
+517,Clothing,407.79
+517,Home & Kitchen,767.62
+518,Beauty & Health,69.84
+518,Clothing,259.59
+518,Home & Kitchen,27.62
+519,Clothing,22.42
+519,Electronics,91.79
+519,Home & Kitchen,41.37
+520,Beauty & Health,64.32
+520,Clothing,464.29
+520,Electronics,373.72
+520,Home & Kitchen,269.82
+521,Beauty & Health,80.43
+521,Clothing,262.58
+521,Electronics,193.7
+521,Home & Kitchen,132.1
+522,Electronics,214.96
+522,Home & Kitchen,300.0
+523,Beauty & Health,465.55
+523,Electronics,298.38
+524,Beauty & Health,469.3
+524,Clothing,24.03
+524,Electronics,337.95
+524,Home & Kitchen,45.85
+525,Beauty & Health,93.81
+525,Clothing,735.91
+525,Electronics,45.43
+526,Beauty & Health,255.3
+526,Electronics,666.18
+526,Home & Kitchen,778.78
+527,Beauty & Health,203.94
+527,Clothing,535.6
+527,Electronics,185.66
+528,Beauty & Health,170.36
+529,Beauty & Health,132.98
+529,Electronics,38.94
+529,Home & Kitchen,84.9
+530,Beauty & Health,241.23
+531,Home & Kitchen,336.39
+532,Beauty & Health,184.29
+532,Clothing,107.96
+532,Electronics,583.63
+533,Beauty & Health,93.84
+533,Clothing,82.72
+533,Electronics,199.62
+533,Home & Kitchen,401.3
+534,Clothing,372.48
+534,Home & Kitchen,193.48
+535,Beauty & Health,203.94
+535,Home & Kitchen,172.64
+536,Clothing,79.8
+536,Home & Kitchen,364.12
+537,Beauty & Health,256.71
+537,Clothing,445.14
+537,Electronics,31.64
+537,Home & Kitchen,200.15
+538,Beauty & Health,216.86
+538,Home & Kitchen,94.13
+539,Beauty & Health,240.84
+539,Electronics,129.5
+539,Home & Kitchen,370.24
+540,Beauty & Health,71.74
+540,Electronics,291.16
+540,Home & Kitchen,270.48
+541,Home & Kitchen,376.89
+542,Beauty & Health,291.24
+542,Clothing,191.84
+542,Electronics,60.86
+542,Home & Kitchen,220.91
+543,Beauty & Health,185.64
+543,Electronics,165.54
+543,Home & Kitchen,73.83
+544,Clothing,346.12
+544,Electronics,107.48
+544,Home & Kitchen,44.37
+545,Beauty & Health,156.81
+546,Clothing,151.83
+546,Electronics,136.29
+546,Home & Kitchen,356.23
+547,Beauty & Health,20.6
+547,Clothing,246.6
+547,Electronics,476.59
+547,Home & Kitchen,671.78
+548,Beauty & Health,156.42
+548,Clothing,147.28
+548,Electronics,370.61
+549,Beauty & Health,50.67
+549,Electronics,206.96
+549,Home & Kitchen,497.52
+550,Beauty & Health,189.0
+550,Clothing,176.64
+550,Electronics,393.93
+550,Home & Kitchen,205.46
+551,Beauty & Health,247.3
+551,Clothing,96.33
+551,Home & Kitchen,493.38
+552,Electronics,215.97
+552,Home & Kitchen,298.23
+553,Beauty & Health,202.07
+553,Electronics,250.82
+554,Beauty & Health,218.67
+554,Clothing,669.69
+554,Electronics,444.36
+554,Home & Kitchen,494.52
+555,Beauty & Health,22.27
+556,Beauty & Health,142.57
+556,Clothing,168.2
+556,Electronics,23.9
+556,Home & Kitchen,174.6
+557,Beauty & Health,46.15
+557,Electronics,70.04
+557,Home & Kitchen,217.39
+558,Beauty & Health,101.68
+558,Clothing,10.36
+558,Electronics,793.63
+558,Home & Kitchen,197.92
+559,Beauty & Health,268.17
+559,Clothing,68.85
+559,Electronics,668.8
+559,Home & Kitchen,77.15
+560,Clothing,251.04
+560,Electronics,43.77
+560,Home & Kitchen,112.2
+561,Beauty & Health,93.81
+561,Clothing,285.28
+561,Electronics,75.12
+561,Home & Kitchen,494.6
+562,Beauty & Health,70.38
+562,Clothing,186.24
+562,Electronics,443.58
+562,Home & Kitchen,179.77
+563,Clothing,464.09
+563,Electronics,625.71
+563,Home & Kitchen,154.4
+564,Beauty & Health,44.32
+564,Clothing,130.72
+564,Electronics,103.48
+564,Home & Kitchen,222.9
+565,Beauty & Health,186.19
+565,Electronics,61.1
+566,Electronics,78.23
+566,Home & Kitchen,651.15
+567,Beauty & Health,220.03
+567,Clothing,72.09
+567,Electronics,30.55
+568,Beauty & Health,46.15
+568,Home & Kitchen,99.35
+569,Clothing,151.26
+569,Electronics,210.52
+569,Home & Kitchen,277.68
+570,Beauty & Health,269.2
+570,Clothing,85.44
+570,Electronics,114.54
+570,Home & Kitchen,175.86
+571,Beauty & Health,175.9
+571,Clothing,309.03
+571,Electronics,131.54
+571,Home & Kitchen,89.19
+572,Beauty & Health,304.1
+572,Clothing,125.83
+572,Electronics,260.87
+573,Beauty & Health,245.79
+573,Clothing,126.15
+573,Electronics,350.54
+573,Home & Kitchen,320.41
+574,Beauty & Health,179.93
+574,Clothing,45.69
+574,Electronics,312.02
+574,Home & Kitchen,197.34
+575,Clothing,145.3
+575,Electronics,277.57
+575,Home & Kitchen,761.85
+576,Beauty & Health,97.98
+576,Clothing,422.61
+576,Home & Kitchen,326.4
+577,Clothing,89.01
+577,Electronics,91.29
+577,Home & Kitchen,55.24
+578,Beauty & Health,159.27
+578,Electronics,93.43
+578,Home & Kitchen,287.67
+579,Beauty & Health,156.42
+579,Clothing,99.44
+579,Electronics,269.46
+579,Home & Kitchen,46.59
+580,Beauty & Health,104.54
+580,Clothing,272.82
+580,Electronics,75.12
+580,Home & Kitchen,665.88
+581,Beauty & Health,237.53
+581,Clothing,62.76
+581,Electronics,120.88
+582,Beauty & Health,14.43
+582,Clothing,89.84
+582,Electronics,344.12
+582,Home & Kitchen,175.82
+583,Clothing,91.47
+583,Home & Kitchen,339.6
+584,Beauty & Health,280.2
+584,Home & Kitchen,707.0
+585,Beauty & Health,298.54
+585,Electronics,214.96
+586,Beauty & Health,84.34
+586,Home & Kitchen,333.58
+587,Beauty & Health,78.66
+587,Home & Kitchen,282.0
+588,Clothing,233.95
+588,Electronics,133.75
+588,Home & Kitchen,610.4
+589,Beauty & Health,93.84
+589,Electronics,408.78
+589,Home & Kitchen,87.93
+590,Beauty & Health,150.02
+590,Clothing,22.42
+591,Beauty & Health,161.79
+591,Home & Kitchen,377.0
+592,Beauty & Health,254.1
+592,Electronics,93.43
+592,Home & Kitchen,56.1
+593,Beauty & Health,26.81
+593,Clothing,110.8
+593,Electronics,51.74
+593,Home & Kitchen,44.37
+594,Beauty & Health,329.74
+594,Clothing,278.57
+594,Electronics,203.28
+594,Home & Kitchen,28.58
+595,Home & Kitchen,73.53
+596,Beauty & Health,72.44
+596,Clothing,209.36
+596,Electronics,148.88
+597,Electronics,283.05
+597,Home & Kitchen,99.06
+598,Beauty & Health,160.46
+598,Clothing,126.15
+598,Electronics,91.65
+598,Home & Kitchen,448.18
+599,Beauty & Health,262.65
+599,Clothing,67.99
+599,Home & Kitchen,53.88
+601,Beauty & Health,100.41
+601,Home & Kitchen,712.83
+602,Beauty & Health,859.0
+602,Clothing,217.95
+602,Electronics,280.29
+602,Home & Kitchen,133.27
+603,Beauty & Health,171.56
+604,Beauty & Health,148.14
+604,Clothing,207.09
+604,Electronics,74.79
+604,Home & Kitchen,335.56
+605,Beauty & Health,334.16
+605,Clothing,395.72
+605,Electronics,210.63
+606,Electronics,152.95
+607,Beauty & Health,107.86
+607,Electronics,355.15
+607,Home & Kitchen,276.2
+608,Beauty & Health,82.8
+608,Clothing,188.25
+608,Electronics,43.82
+608,Home & Kitchen,401.52
+609,Beauty & Health,48.27
+609,Electronics,233.12
+609,Home & Kitchen,456.79
+610,Beauty & Health,411.23
+610,Clothing,189.52
+610,Electronics,51.92
+610,Home & Kitchen,428.78
+611,Beauty & Health,23.46
+611,Electronics,153.6
+611,Home & Kitchen,155.82
+612,Beauty & Health,30.15
+612,Electronics,417.38
+612,Home & Kitchen,442.67
+613,Beauty & Health,409.65
+613,Clothing,146.36
+613,Electronics,588.86
+613,Home & Kitchen,306.4
+614,Clothing,30.98
+614,Electronics,276.88
+615,Beauty & Health,85.88
+615,Electronics,38.94
+615,Home & Kitchen,264.0
+616,Beauty & Health,85.7
+616,Electronics,363.48
+616,Home & Kitchen,159.75
+617,Beauty & Health,53.93
+617,Clothing,290.6
+617,Home & Kitchen,144.5
+618,Beauty & Health,389.58
+618,Clothing,288.99
+618,Electronics,37.56
+619,Beauty & Health,267.93
+619,Clothing,93.12
+619,Electronics,214.96
+620,Beauty & Health,111.01
+620,Clothing,110.46
+620,Electronics,407.23
+620,Home & Kitchen,216.88
+621,Beauty & Health,66.2
+621,Home & Kitchen,478.59
+622,Clothing,77.99
+622,Home & Kitchen,206.06
+623,Beauty & Health,59.81
+623,Clothing,211.85
+623,Electronics,748.62
+623,Home & Kitchen,87.2
+624,Beauty & Health,100.41
+624,Clothing,606.51
+624,Electronics,64.75
+625,Clothing,728.52
+625,Electronics,542.94
+626,Electronics,346.2
+626,Home & Kitchen,26.43
+627,Clothing,170.88
+627,Electronics,140.42
+628,Clothing,618.95
+628,Electronics,298.38
+628,Home & Kitchen,656.34
+629,Beauty & Health,137.89
+629,Clothing,287.76
+629,Electronics,372.17
+630,Clothing,306.07
+630,Electronics,74.47
+630,Home & Kitchen,360.0
+631,Beauty & Health,41.4
+631,Home & Kitchen,615.89
+632,Electronics,85.13
+632,Home & Kitchen,719.02
+633,Beauty & Health,97.98
+633,Clothing,30.46
+633,Electronics,384.3
+633,Home & Kitchen,430.23
+634,Clothing,243.12
+634,Electronics,74.64
+634,Home & Kitchen,747.46
+635,Clothing,100.84
+635,Electronics,255.39
+635,Home & Kitchen,61.64
+636,Clothing,32.85
+636,Electronics,145.58
+637,Beauty & Health,125.81
+637,Clothing,530.55
+637,Electronics,229.56
+637,Home & Kitchen,370.24
+638,Beauty & Health,506.16
+638,Clothing,520.1
+638,Home & Kitchen,188.5
+639,Electronics,109.03
+639,Home & Kitchen,282.61
+640,Beauty & Health,199.67
+640,Clothing,222.07
+640,Electronics,234.48
+641,Beauty & Health,90.34
+641,Clothing,385.32
+641,Electronics,58.55
+641,Home & Kitchen,285.61
+642,Beauty & Health,156.42
+642,Clothing,185.28
+642,Electronics,349.39
+643,Beauty & Health,76.26
+643,Clothing,42.05
+643,Electronics,280.29
+643,Home & Kitchen,198.87
+644,Clothing,188.25
+644,Home & Kitchen,336.5
+645,Beauty & Health,223.92
+645,Clothing,44.12
+645,Home & Kitchen,423.12
+646,Beauty & Health,176.88
+646,Clothing,30.98
+646,Electronics,606.04
+646,Home & Kitchen,375.74
+647,Beauty & Health,39.33
+647,Clothing,27.03
+647,Home & Kitchen,99.06
+648,Clothing,330.77
+648,Electronics,207.34
+648,Home & Kitchen,1034.89
+649,Beauty & Health,257.34
+649,Electronics,23.76
+649,Home & Kitchen,48.47
+650,Electronics,248.1
+650,Home & Kitchen,298.9
+651,Clothing,51.57
+651,Electronics,171.81
+652,Electronics,172.06
+652,Home & Kitchen,261.6
+653,Beauty & Health,298.31
+653,Clothing,290.6
+653,Electronics,184.94
+654,Clothing,255.57
+654,Electronics,384.16
+654,Home & Kitchen,260.88
+655,Beauty & Health,366.83
+655,Electronics,658.51
+655,Home & Kitchen,277.68
+656,Beauty & Health,407.99
+656,Clothing,161.07
+656,Electronics,397.84
+657,Beauty & Health,70.38
+657,Clothing,199.03
+657,Electronics,69.0
+657,Home & Kitchen,190.16
+658,Beauty & Health,460.16
+658,Electronics,560.67
+659,Beauty & Health,169.52
+659,Clothing,438.8
+659,Electronics,25.96
+659,Home & Kitchen,173.03
+660,Beauty & Health,454.83
+660,Clothing,299.32
+660,Electronics,180.38
+660,Home & Kitchen,51.96
+661,Clothing,303.57
+661,Electronics,63.28
+661,Home & Kitchen,572.73
+662,Beauty & Health,65.32
+662,Clothing,179.75
+662,Electronics,825.68
+662,Home & Kitchen,26.43
+663,Beauty & Health,209.71
+663,Clothing,22.06
+663,Electronics,426.24
+664,Beauty & Health,200.05
+664,Clothing,606.3
+664,Electronics,632.19
+664,Home & Kitchen,1080.5
+665,Beauty & Health,66.81
+665,Clothing,514.52
+665,Electronics,534.5
+666,Beauty & Health,31.59
+666,Clothing,95.92
+666,Electronics,788.28
+666,Home & Kitchen,235.24
+667,Beauty & Health,178.72
+667,Clothing,94.76
+667,Electronics,194.25
+668,Electronics,52.63
+668,Home & Kitchen,160.94
+669,Beauty & Health,237.88
+669,Clothing,381.49
+670,Beauty & Health,665.08
+670,Clothing,907.77
+670,Electronics,435.72
+670,Home & Kitchen,423.58
+672,Beauty & Health,26.81
+672,Clothing,122.74
+672,Electronics,458.96
+672,Home & Kitchen,775.32
+673,Beauty & Health,437.92
+673,Electronics,30.38
+673,Home & Kitchen,134.87
+674,Clothing,284.56
+674,Electronics,74.47
+675,Beauty & Health,299.12
+675,Clothing,259.59
+675,Home & Kitchen,222.85
+676,Beauty & Health,345.05
+676,Clothing,374.25
+676,Home & Kitchen,477.67
+677,Beauty & Health,166.26
+677,Clothing,27.3
+678,Clothing,277.92
+678,Electronics,165.54
+678,Home & Kitchen,202.06
+679,Beauty & Health,67.56
+679,Home & Kitchen,263.84
+680,Electronics,92.49
+681,Clothing,288.99
+681,Home & Kitchen,352.68
+682,Beauty & Health,464.55
+682,Clothing,441.82
+682,Electronics,328.04
+682,Home & Kitchen,53.88
+683,Clothing,213.42
+683,Home & Kitchen,369.12
+684,Beauty & Health,71.88
+684,Electronics,18.78
+684,Home & Kitchen,330.48
+685,Beauty & Health,685.54
+685,Clothing,419.67
+685,Electronics,166.96
+686,Beauty & Health,28.86
+686,Clothing,181.56
+686,Electronics,353.01
+687,Beauty & Health,662.84
+687,Clothing,72.65
+687,Electronics,250.18
+687,Home & Kitchen,274.2
+688,Electronics,435.16
+688,Home & Kitchen,318.04
+689,Beauty & Health,138.45
+689,Electronics,626.99
+689,Home & Kitchen,143.67
+690,Beauty & Health,46.15
+690,Clothing,165.44
+690,Electronics,197.31
+690,Home & Kitchen,937.84
+691,Beauty & Health,296.24
+691,Clothing,41.44
+691,Electronics,30.83
+691,Home & Kitchen,183.34
+692,Beauty & Health,117.96
+692,Clothing,185.28
+692,Electronics,276.89
+693,Beauty & Health,392.48
+693,Clothing,169.94
+693,Electronics,386.07
+693,Home & Kitchen,136.6
+695,Beauty & Health,97.98
+695,Clothing,137.07
+695,Home & Kitchen,270.0
+696,Beauty & Health,74.03
+696,Clothing,126.15
+696,Electronics,184.08
+697,Electronics,217.12
+698,Clothing,72.65
+698,Electronics,172.17
+698,Home & Kitchen,399.73
+699,Beauty & Health,133.93
+699,Electronics,263.08
+699,Home & Kitchen,175.86
+700,Clothing,391.75
+700,Home & Kitchen,556.74
+701,Beauty & Health,79.83
+701,Clothing,191.84
+701,Electronics,102.81
+701,Home & Kitchen,72.22
+702,Beauty & Health,94.5
+702,Clothing,27.03
+702,Electronics,221.68
+703,Beauty & Health,113.94
+703,Clothing,383.68
+703,Electronics,175.28
+703,Home & Kitchen,67.4
+704,Beauty & Health,313.89
+704,Clothing,41.44
+704,Electronics,87.64
+704,Home & Kitchen,1185.37
+705,Beauty & Health,239.24
+705,Home & Kitchen,370.03
+706,Clothing,224.49
+707,Beauty & Health,189.0
+707,Home & Kitchen,352.4
+708,Clothing,208.03
+708,Electronics,30.55
+708,Home & Kitchen,57.16
+709,Beauty & Health,427.51
+709,Electronics,429.84
+710,Beauty & Health,453.44
+710,Clothing,460.58
+710,Electronics,77.44
+711,Beauty & Health,36.22
+711,Electronics,315.48
+711,Home & Kitchen,161.45
+712,Beauty & Health,42.85
+712,Electronics,117.1
+713,Beauty & Health,78.66
+713,Home & Kitchen,348.31
+714,Clothing,425.63
+714,Home & Kitchen,334.73
+715,Clothing,117.0
+715,Electronics,312.64
+715,Home & Kitchen,166.15
+716,Clothing,96.33
+716,Home & Kitchen,73.83
+717,Beauty & Health,43.65
+717,Home & Kitchen,186.36
+718,Beauty & Health,46.56
+718,Home & Kitchen,232.25
+719,Clothing,54.6
+719,Home & Kitchen,198.0
+720,Beauty & Health,90.34
+720,Clothing,328.8
+720,Electronics,92.49
+720,Home & Kitchen,184.92
+721,Beauty & Health,323.13
+722,Beauty & Health,92.82
+722,Clothing,226.12
+723,Electronics,312.64
+723,Home & Kitchen,28.05
+724,Clothing,27.7
+724,Home & Kitchen,118.74
+725,Beauty & Health,11.56
+725,Clothing,292.98
+725,Electronics,453.41
+725,Home & Kitchen,184.42
+726,Beauty & Health,143.53
+726,Clothing,30.49
+726,Electronics,23.9
+726,Home & Kitchen,425.78
+727,Beauty & Health,67.98
+727,Clothing,27.3
+727,Electronics,822.02
+727,Home & Kitchen,498.35
+728,Clothing,68.76
+728,Electronics,72.93
+728,Home & Kitchen,378.72
+729,Beauty & Health,55.74
+729,Electronics,171.81
+729,Home & Kitchen,155.42
+730,Beauty & Health,532.05
+730,Clothing,217.62
+730,Electronics,148.94
+731,Beauty & Health,212.36
+731,Electronics,235.47
+731,Home & Kitchen,643.96
+732,Beauty & Health,23.12
+732,Clothing,243.12
+732,Electronics,65.49
+732,Home & Kitchen,290.22
+733,Beauty & Health,84.7
+733,Electronics,43.77
+733,Home & Kitchen,68.55
+734,Beauty & Health,33.47
+734,Clothing,472.9
+734,Electronics,169.73
+735,Beauty & Health,43.29
+735,Clothing,375.64
+735,Electronics,230.67
+735,Home & Kitchen,137.55
+736,Beauty & Health,152.87
+736,Clothing,72.09
+736,Electronics,430.27
+736,Home & Kitchen,88.74
+737,Clothing,348.83
+737,Electronics,131.31
+737,Home & Kitchen,124.2
+738,Beauty & Health,358.4
+738,Electronics,105.08
+738,Home & Kitchen,574.86
+739,Beauty & Health,375.24
+739,Clothing,60.98
+739,Electronics,300.03
+739,Home & Kitchen,546.99
+740,Beauty & Health,163.86
+740,Electronics,413.26
+741,Beauty & Health,399.46
+741,Electronics,15.19
+741,Home & Kitchen,38.97
+742,Clothing,44.12
+742,Electronics,65.49
+743,Beauty & Health,11.56
+743,Clothing,30.49
+743,Home & Kitchen,300.82
+744,Home & Kitchen,775.16
+745,Beauty & Health,14.43
+745,Clothing,96.12
+745,Electronics,164.02
+745,Home & Kitchen,137.55
+746,Beauty & Health,11.09
+746,Clothing,45.69
+746,Home & Kitchen,183.46
+747,Electronics,210.52
+747,Home & Kitchen,84.9
+748,Beauty & Health,134.6
+748,Clothing,542.41
+748,Electronics,26.27
+748,Home & Kitchen,92.56
+749,Beauty & Health,44.54
+749,Electronics,677.95
+749,Home & Kitchen,132.58
+750,Beauty & Health,94.86
+750,Electronics,57.27
+750,Home & Kitchen,138.1
+751,Beauty & Health,344.74
+751,Electronics,259.04
+751,Home & Kitchen,307.52
+752,Beauty & Health,23.28
+752,Clothing,631.78
+752,Electronics,170.26
+753,Beauty & Health,36.22
+753,Clothing,78.0
+753,Electronics,219.08
+754,Beauty & Health,16.89
+754,Clothing,255.12
+754,Home & Kitchen,132.58
+755,Beauty & Health,727.58
+755,Home & Kitchen,26.82
+757,Beauty & Health,44.32
+757,Clothing,129.21
+757,Home & Kitchen,198.7
+758,Beauty & Health,246.79
+758,Electronics,153.6
+758,Home & Kitchen,277.68
+759,Beauty & Health,42.12
+759,Clothing,92.94
+759,Electronics,253.07
+759,Home & Kitchen,698.2
+760,Beauty & Health,23.46
+760,Clothing,92.22
+760,Electronics,94.92
+761,Beauty & Health,20.1
+761,Clothing,50.42
+761,Electronics,173.94
+761,Home & Kitchen,381.13
+762,Beauty & Health,167.92
+762,Electronics,77.44
+762,Home & Kitchen,176.76
+763,Beauty & Health,614.36
+763,Clothing,411.02
+763,Home & Kitchen,184.85
+764,Beauty & Health,450.86
+764,Electronics,368.16
+764,Home & Kitchen,33.7
+766,Beauty & Health,28.86
+767,Beauty & Health,32.18
+767,Clothing,234.39
+767,Electronics,338.76
+767,Home & Kitchen,105.73
+768,Beauty & Health,218.67
+768,Clothing,201.68
+768,Home & Kitchen,364.05
+769,Beauty & Health,124.2
+769,Clothing,62.75
+769,Electronics,74.47
+769,Home & Kitchen,648.77
+770,Beauty & Health,243.76
+770,Electronics,112.7
+770,Home & Kitchen,195.01
+771,Beauty & Health,58.75
+771,Clothing,137.01
+771,Home & Kitchen,317.77
+772,Beauty & Health,168.68
+772,Clothing,604.43
+772,Electronics,306.52
+772,Home & Kitchen,338.76
+773,Clothing,382.42
+773,Electronics,116.56
+774,Beauty & Health,51.76
+774,Clothing,189.52
+774,Electronics,359.65
+774,Home & Kitchen,133.11
+775,Beauty & Health,189.12
+775,Electronics,78.87
+776,Beauty & Health,604.34
+776,Clothing,30.46
+776,Electronics,618.31
+776,Home & Kitchen,297.9
+777,Beauty & Health,286.48
+777,Electronics,145.58
+778,Beauty & Health,85.7
+778,Electronics,379.82
+778,Home & Kitchen,184.92
+779,Beauty & Health,135.96
+779,Clothing,381.83
+779,Electronics,203.28
+779,Home & Kitchen,835.55
+780,Clothing,290.6
+780,Home & Kitchen,627.21
+781,Beauty & Health,82.8
+781,Clothing,255.66
+781,Home & Kitchen,445.34
+782,Beauty & Health,71.88
+782,Home & Kitchen,120.24
+783,Beauty & Health,325.32
+783,Electronics,444.7
+783,Home & Kitchen,293.37
+784,Home & Kitchen,408.16
+785,Beauty & Health,306.2
+785,Electronics,87.64
+785,Home & Kitchen,360.64
+786,Beauty & Health,215.72
+786,Clothing,191.84
+787,Beauty & Health,431.04
+787,Electronics,683.24
+787,Home & Kitchen,403.99
+788,Clothing,81.09
+788,Electronics,63.28
+789,Electronics,115.24
+789,Home & Kitchen,404.06
+790,Electronics,92.83
+790,Home & Kitchen,198.15
+791,Electronics,145.58
+791,Home & Kitchen,161.64
+792,Beauty & Health,26.81
+792,Clothing,89.84
+792,Electronics,78.16
+792,Home & Kitchen,381.09
+793,Beauty & Health,92.3
+793,Clothing,306.7
+793,Home & Kitchen,337.88
+794,Beauty & Health,145.78
+794,Clothing,323.21
+794,Electronics,92.49
+794,Home & Kitchen,572.15
+795,Clothing,206.55
+795,Electronics,155.22
+795,Home & Kitchen,462.56
+796,Beauty & Health,237.76
+796,Clothing,355.57
+796,Home & Kitchen,336.14
+797,Beauty & Health,78.3
+797,Clothing,89.01
+797,Electronics,559.33
+797,Home & Kitchen,208.23
+798,Beauty & Health,474.96
+798,Clothing,177.21
+798,Electronics,119.04
+798,Home & Kitchen,198.13
+799,Home & Kitchen,254.7
+800,Beauty & Health,490.12
+800,Clothing,818.86
+800,Electronics,93.43
+801,Beauty & Health,291.67
+801,Clothing,59.34
+801,Home & Kitchen,78.34
+802,Beauty & Health,488.0
+802,Electronics,170.75
+802,Home & Kitchen,380.96
+803,Beauty & Health,704.52
+803,Clothing,135.98
+803,Electronics,11.95
+804,Clothing,297.48
+804,Electronics,206.79
+804,Home & Kitchen,232.8
+805,Beauty & Health,552.37
+805,Clothing,484.58
+805,Home & Kitchen,382.0
+806,Beauty & Health,440.35
+806,Clothing,864.14
+806,Home & Kitchen,307.16
+807,Beauty & Health,77.39
+807,Clothing,561.2
+809,Beauty & Health,34.68
+809,Home & Kitchen,86.32
+810,Electronics,68.88
+811,Beauty & Health,319.81
+811,Electronics,207.0
+812,Beauty & Health,14.43
+812,Clothing,85.04
+812,Electronics,145.86
+812,Home & Kitchen,93.28
+813,Beauty & Health,22.18
+813,Clothing,525.9
+813,Home & Kitchen,157.73
+814,Beauty & Health,375.24
+814,Clothing,531.35
+814,Electronics,315.48
+814,Home & Kitchen,77.28
+815,Beauty & Health,101.68
+815,Clothing,61.99
+815,Electronics,588.03
+815,Home & Kitchen,415.58
+816,Beauty & Health,166.11
+816,Electronics,258.5
+816,Home & Kitchen,215.52
+817,Beauty & Health,217.13
+817,Clothing,151.83
+817,Home & Kitchen,376.9
+818,Beauty & Health,103.62
+818,Electronics,181.72
+819,Beauty & Health,378.0
+819,Clothing,440.47
+819,Electronics,90.86
+819,Home & Kitchen,223.31
+820,Beauty & Health,456.96
+820,Clothing,186.24
+820,Electronics,481.65
+820,Home & Kitchen,233.13
+821,Beauty & Health,441.32
+821,Clothing,372.48
+821,Electronics,85.13
+822,Beauty & Health,1016.36
+822,Electronics,414.21
+822,Home & Kitchen,56.1
+823,Beauty & Health,69.84
+823,Clothing,68.76
+823,Electronics,402.8
+823,Home & Kitchen,468.0
+824,Beauty & Health,557.93
+824,Clothing,287.76
+825,Clothing,232.25
+825,Electronics,229.08
+825,Home & Kitchen,447.52
+826,Clothing,34.38
+826,Home & Kitchen,647.44
+827,Beauty & Health,323.13
+827,Clothing,111.43
+827,Electronics,94.35
+828,Beauty & Health,53.62
+828,Clothing,600.08
+828,Electronics,703.48
+828,Home & Kitchen,51.99
+829,Clothing,311.32
+829,Electronics,149.04
+829,Home & Kitchen,321.8
+830,Beauty & Health,293.09
+830,Home & Kitchen,386.96
+831,Beauty & Health,150.32
+831,Clothing,277.92
+831,Electronics,135.76
+831,Home & Kitchen,243.82
+832,Beauty & Health,263.24
+832,Clothing,118.41
+832,Electronics,262.38
+833,Beauty & Health,428.31
+833,Clothing,83.1
+833,Electronics,34.44
+834,Clothing,33.63
+834,Home & Kitchen,77.28
+835,Beauty & Health,29.1
+835,Clothing,110.8
+835,Electronics,67.76
+835,Home & Kitchen,310.84
+836,Beauty & Health,215.72
+836,Clothing,22.42
+836,Electronics,142.52
+837,Beauty & Health,518.88
+837,Clothing,90.75
+837,Home & Kitchen,482.24
+838,Beauty & Health,288.61
+838,Electronics,229.56
+838,Home & Kitchen,818.36
+839,Beauty & Health,23.46
+839,Home & Kitchen,110.48
+840,Beauty & Health,153.54
+840,Clothing,337.52
+840,Electronics,322.24
+840,Home & Kitchen,152.25
+841,Clothing,169.94
+841,Electronics,122.2
+842,Clothing,247.96
+842,Electronics,290.82
+842,Home & Kitchen,277.6
+843,Beauty & Health,130.64
+843,Clothing,10.36
+843,Home & Kitchen,280.42
+844,Beauty & Health,25.42
+844,Home & Kitchen,38.64
+845,Beauty & Health,283.5
+845,Electronics,316.54
+845,Home & Kitchen,94.25
+846,Clothing,56.53
+846,Electronics,405.29
+847,Clothing,92.94
+847,Electronics,329.13
+848,Beauty & Health,179.43
+848,Electronics,399.24
+848,Home & Kitchen,284.68
+849,Beauty & Health,222.56
+849,Electronics,26.27
+849,Home & Kitchen,601.59
+850,Clothing,22.06
+850,Electronics,276.46
+850,Home & Kitchen,255.62
+851,Beauty & Health,73.33
+851,Home & Kitchen,360.64
+852,Beauty & Health,283.17
+852,Clothing,40.85
+852,Electronics,26.27
+852,Home & Kitchen,57.65
+853,Beauty & Health,53.91
+853,Clothing,169.94
+853,Electronics,135.98
+853,Home & Kitchen,379.26
+854,Beauty & Health,144.88
+854,Clothing,60.92
+854,Electronics,217.18
+854,Home & Kitchen,485.01
+855,Beauty & Health,64.32
+855,Electronics,60.76
+855,Home & Kitchen,82.74
+856,Beauty & Health,58.75
+856,Electronics,331.08
+856,Home & Kitchen,419.41
+857,Clothing,218.14
+857,Electronics,293.35
+857,Home & Kitchen,133.11
+858,Electronics,186.86
+858,Home & Kitchen,71.6
+859,Beauty & Health,232.45
+859,Electronics,430.29
+859,Home & Kitchen,96.74
+860,Beauty & Health,85.7
+860,Clothing,255.12
+861,Beauty & Health,163.98
+861,Clothing,138.33
+861,Electronics,203.28
+861,Home & Kitchen,84.15
+862,Beauty & Health,167.29
+862,Clothing,96.33
+862,Electronics,18.78
+863,Clothing,185.28
+863,Home & Kitchen,73.83
+864,Beauty & Health,128.64
+864,Clothing,151.26
+864,Electronics,316.88
+864,Home & Kitchen,51.99
+865,Beauty & Health,97.7
+865,Clothing,169.94
+866,Beauty & Health,93.12
+866,Clothing,598.9
+866,Electronics,441.48
+867,Beauty & Health,365.88
+867,Clothing,460.98
+867,Electronics,338.76
+867,Home & Kitchen,501.26
+868,Clothing,84.97
+868,Home & Kitchen,91.1
+869,Beauty & Health,290.45
+869,Clothing,217.95
+869,Home & Kitchen,66.05
+870,Home & Kitchen,132.58
+871,Beauty & Health,87.55
+871,Electronics,271.04
+871,Home & Kitchen,314.28
+872,Beauty & Health,441.38
+872,Clothing,170.08
+872,Electronics,272.73
+872,Home & Kitchen,492.61
+873,Clothing,338.79
+873,Electronics,123.32
+874,Clothing,11.21
+874,Electronics,281.53
+875,Beauty & Health,127.77
+875,Electronics,283.05
+876,Beauty & Health,192.13
+876,Home & Kitchen,746.2
+877,Beauty & Health,280.38
+877,Clothing,380.57
+877,Electronics,534.49
+877,Home & Kitchen,161.4
+878,Beauty & Health,347.6
+878,Clothing,277.92
+878,Home & Kitchen,126.06
+879,Clothing,135.98
+879,Electronics,241.43
+880,Beauty & Health,30.15
+880,Electronics,72.79
+881,Clothing,882.44
+881,Electronics,554.06
+881,Home & Kitchen,276.73
+882,Beauty & Health,66.2
+882,Electronics,43.82
+882,Home & Kitchen,145.41
+883,Clothing,656.04
+883,Electronics,158.32
+883,Home & Kitchen,514.08
+884,Beauty & Health,71.33
+884,Electronics,269.28
+885,Clothing,101.99
+885,Electronics,123.32
+885,Home & Kitchen,321.8
+886,Beauty & Health,181.16
+886,Clothing,115.54
+886,Electronics,283.05
+886,Home & Kitchen,240.35
+887,Beauty & Health,64.36
+887,Electronics,274.61
+887,Home & Kitchen,392.3
+888,Beauty & Health,148.77
+888,Clothing,187.82
+888,Electronics,364.92
+888,Home & Kitchen,228.95
+889,Beauty & Health,34.68
+889,Home & Kitchen,297.18
+890,Beauty & Health,171.4
+891,Beauty & Health,158.22
+891,Clothing,338.6
+891,Electronics,487.08
+891,Home & Kitchen,92.72
+892,Beauty & Health,282.99
+892,Clothing,85.44
+892,Electronics,214.96
+892,Home & Kitchen,80.46
+893,Clothing,279.36
+893,Electronics,60.76
+893,Home & Kitchen,56.1
+894,Beauty & Health,75.54
+894,Electronics,186.86
+894,Home & Kitchen,230.6
+895,Beauty & Health,337.36
+895,Home & Kitchen,53.64
+896,Beauty & Health,80.43
+896,Clothing,238.72
+896,Electronics,51.92
+896,Home & Kitchen,286.4
+897,Clothing,346.12
+897,Home & Kitchen,721.96
+898,Beauty & Health,132.4
+898,Clothing,544.64
+899,Beauty & Health,242.31
+899,Clothing,21.9
+899,Electronics,235.09
+899,Home & Kitchen,388.55
+900,Beauty & Health,247.59
+900,Clothing,448.29
+900,Electronics,373.72
+900,Home & Kitchen,73.83
+901,Clothing,201.68
+901,Home & Kitchen,148.66
+902,Beauty & Health,166.86
+902,Clothing,209.27
+903,Beauty & Health,296.28
+903,Clothing,110.46
+903,Electronics,164.69
+904,Beauty & Health,176.98
+904,Home & Kitchen,366.92
+905,Beauty & Health,31.59
+905,Clothing,190.04
+905,Electronics,223.41
+905,Home & Kitchen,272.05
+906,Beauty & Health,573.82
+906,Clothing,185.28
+906,Electronics,490.53
+907,Clothing,135.98
+907,Electronics,278.49
+907,Home & Kitchen,631.68
+908,Clothing,383.24
+908,Electronics,43.77
+908,Home & Kitchen,68.3
+909,Beauty & Health,219.85
+909,Clothing,254.91
+909,Electronics,452.57
+910,Beauty & Health,72.44
+910,Clothing,142.28
+910,Home & Kitchen,400.22
+911,Beauty & Health,383.23
+911,Electronics,276.0
+911,Home & Kitchen,181.58
+912,Beauty & Health,469.05
+912,Clothing,290.36
+912,Electronics,175.08
+912,Home & Kitchen,441.09
+913,Beauty & Health,25.18
+913,Clothing,164.4
+913,Electronics,312.64
+913,Home & Kitchen,57.96
+914,Beauty & Health,153.1
+914,Clothing,29.67
+915,Beauty & Health,67.56
+915,Clothing,440.72
+915,Electronics,253.14
+915,Home & Kitchen,388.16
+916,Beauty & Health,291.56
+916,Clothing,404.17
+916,Electronics,208.65
+916,Home & Kitchen,154.3
+917,Clothing,339.88
+917,Electronics,248.31
+917,Home & Kitchen,653.59
+918,Clothing,256.32
+918,Home & Kitchen,153.0
+919,Beauty & Health,168.68
+919,Clothing,169.59
+919,Home & Kitchen,301.96
+920,Clothing,353.87
+920,Electronics,116.16
+920,Home & Kitchen,322.56
+921,Beauty & Health,456.51
+921,Clothing,401.56
+921,Electronics,852.25
+921,Home & Kitchen,155.97
+922,Clothing,576.88
+922,Electronics,75.12
+922,Home & Kitchen,160.9
+923,Beauty & Health,384.19
+923,Clothing,374.1
+923,Home & Kitchen,45.85
+924,Beauty & Health,299.12
+924,Electronics,107.48
+924,Home & Kitchen,56.1
+925,Beauty & Health,178.99
+925,Home & Kitchen,321.88
+926,Beauty & Health,81.13
+926,Electronics,77.44
+926,Home & Kitchen,198.0
+927,Clothing,339.88
+927,Electronics,899.09
+927,Home & Kitchen,163.2
+928,Beauty & Health,384.19
+928,Electronics,230.74
+929,Beauty & Health,304.47
+929,Clothing,513.5
+929,Electronics,613.86
+929,Home & Kitchen,366.59
+930,Beauty & Health,52.26
+930,Clothing,372.48
+930,Electronics,165.97
+930,Home & Kitchen,246.57
+931,Beauty & Health,59.81
+931,Clothing,170.88
+931,Home & Kitchen,110.48
+932,Beauty & Health,103.62
+932,Clothing,430.08
+932,Electronics,185.66
+933,Beauty & Health,209.08
+933,Clothing,185.97
+933,Home & Kitchen,209.71
+934,Beauty & Health,170.36
+934,Clothing,524.96
+934,Home & Kitchen,84.9
+935,Beauty & Health,78.21
+935,Clothing,501.7
+935,Home & Kitchen,345.28
+936,Clothing,842.56
+936,Electronics,223.41
+936,Home & Kitchen,1768.5
+937,Clothing,246.6
+937,Electronics,850.28
+937,Home & Kitchen,463.45
+938,Clothing,44.12
+938,Electronics,103.32
+938,Home & Kitchen,273.09
+939,Beauty & Health,242.53
+939,Electronics,86.03
+939,Home & Kitchen,46.64
+940,Beauty & Health,138.16
+940,Electronics,648.4
+940,Home & Kitchen,160.94
+941,Clothing,151.26
+941,Electronics,194.25
+941,Home & Kitchen,232.8
+942,Beauty & Health,180.68
+942,Electronics,70.21
+942,Home & Kitchen,604.63
+943,Beauty & Health,565.0
+943,Clothing,169.59
+943,Electronics,600.72
+944,Beauty & Health,184.67
+944,Clothing,480.86
+944,Home & Kitchen,77.28
+945,Beauty & Health,69.69
+945,Home & Kitchen,268.51
+946,Beauty & Health,209.08
+946,Clothing,326.88
+946,Home & Kitchen,473.78
+947,Beauty & Health,453.98
+947,Clothing,271.62
+947,Electronics,68.88
+947,Home & Kitchen,425.85
+948,Beauty & Health,67.71
+948,Clothing,185.28
+948,Electronics,140.42
+948,Home & Kitchen,58.92
+949,Beauty & Health,32.18
+949,Electronics,749.56
+950,Clothing,165.21
+951,Clothing,149.63
+951,Electronics,131.54
+951,Home & Kitchen,265.16
+952,Beauty & Health,57.72
+952,Clothing,680.34
+952,Electronics,154.88
+953,Beauty & Health,111.21
+953,Clothing,171.82
+953,Electronics,239.9
+953,Home & Kitchen,79.29
+954,Beauty & Health,58.2
+954,Clothing,27.3
+954,Home & Kitchen,66.0
+955,Beauty & Health,496.99
+955,Clothing,164.68
+955,Electronics,99.46
+955,Home & Kitchen,524.1
+956,Beauty & Health,576.85
+956,Clothing,461.92
+956,Electronics,361.15
+957,Beauty & Health,53.91
+957,Electronics,458.45
+957,Home & Kitchen,265.16
+958,Beauty & Health,273.78
+958,Clothing,225.32
+958,Electronics,843.23
+958,Home & Kitchen,762.38
+959,Beauty & Health,548.98
+959,Electronics,263.08
+959,Home & Kitchen,337.05
+960,Clothing,376.86
+960,Electronics,188.7
+961,Beauty & Health,103.62
+961,Electronics,218.79
+962,Beauty & Health,97.98
+962,Clothing,43.8
+962,Electronics,764.86
+962,Home & Kitchen,284.47
+963,Beauty & Health,14.55
+963,Clothing,32.85
+963,Electronics,161.22
+963,Home & Kitchen,353.95
+964,Clothing,630.48
+964,Electronics,148.94
+964,Home & Kitchen,96.94
+965,Beauty & Health,215.72
+966,Clothing,137.7
+966,Electronics,352.62
+966,Home & Kitchen,321.88
+967,Electronics,111.4
+968,Beauty & Health,80.43
+968,Clothing,77.91
+968,Home & Kitchen,354.02
+969,Clothing,86.53
+969,Electronics,364.72
+969,Home & Kitchen,94.25
+970,Beauty & Health,171.4
+970,Electronics,385.43
+970,Home & Kitchen,180.0
+971,Beauty & Health,124.2
+971,Clothing,125.52
+971,Electronics,515.28
+971,Home & Kitchen,259.95
+972,Beauty & Health,78.66
+972,Electronics,218.79
+972,Home & Kitchen,53.88
+973,Beauty & Health,347.62
+973,Clothing,748.24
+973,Electronics,291.16
+973,Home & Kitchen,389.69
+974,Beauty & Health,168.9
+974,Clothing,346.45
+974,Electronics,445.62
+975,Beauty & Health,43.65
+975,Electronics,194.38
+975,Home & Kitchen,297.88
+976,Electronics,426.22
+976,Home & Kitchen,436.79
+977,Beauty & Health,215.72
+977,Clothing,107.96
+977,Electronics,263.08
+977,Home & Kitchen,414.0
+978,Beauty & Health,71.42
+978,Clothing,287.76
+978,Electronics,198.92
+978,Home & Kitchen,367.88
+979,Home & Kitchen,265.16
+980,Beauty & Health,304.44
+980,Electronics,248.31
+980,Home & Kitchen,45.85
+981,Beauty & Health,482.0
+981,Clothing,215.92
+981,Electronics,23.9
+982,Beauty & Health,458.83
+982,Clothing,94.51
+983,Beauty & Health,281.43
+983,Clothing,309.72
+983,Electronics,142.1
+983,Home & Kitchen,198.87
+984,Clothing,552.16
+984,Electronics,309.3
+984,Home & Kitchen,781.08
+985,Beauty & Health,162.35
+985,Electronics,425.48
+985,Home & Kitchen,359.76
+986,Beauty & Health,36.22
+986,Electronics,218.66
+986,Home & Kitchen,542.39
+987,Beauty & Health,238.18
+987,Clothing,502.24
+987,Electronics,521.38
+988,Beauty & Health,297.32
+988,Clothing,97.86
+988,Electronics,72.93
+988,Home & Kitchen,777.19
+989,Beauty & Health,203.17
+989,Home & Kitchen,323.16
+990,Beauty & Health,163.86
+990,Clothing,349.66
+990,Electronics,196.68
+990,Home & Kitchen,238.65
+991,Clothing,85.04
+991,Electronics,222.68
+992,Beauty & Health,230.12
+992,Electronics,373.72
+993,Beauty & Health,261.5
+993,Clothing,48.06
+993,Home & Kitchen,505.08
+994,Beauty & Health,34.68
+994,Electronics,215.01
+994,Home & Kitchen,348.67
+995,Clothing,98.1
+995,Electronics,191.37
+995,Home & Kitchen,207.11
+996,Beauty & Health,323.05
+996,Electronics,218.79
+996,Home & Kitchen,112.2
+997,Beauty & Health,331.67
+997,Electronics,107.23
+997,Home & Kitchen,384.66
+998,Beauty & Health,291.63
+998,Clothing,336.46
+998,Home & Kitchen,183.46
+999,Beauty & Health,250.74
+999,Clothing,206.55
+999,Electronics,18.78
+1000,Beauty & Health,78.21

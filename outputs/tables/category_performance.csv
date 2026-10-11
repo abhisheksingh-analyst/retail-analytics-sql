@@ -1,0 +1,5 @@
+Category,products,units,revenue,avg_price,avg_units_per_product,avg_revenue_per_product,high_tier_products,low_tier_products,stock_units
+Home & Kitchen,58,3477,217755.94,62.14,59.9,3754.41,16,14,16808
+Electronics,47,3037,177548.48,59.61,64.6,3777.63,13,7,12634
+Clothing,45,2810,162874.21,57.71,62.4,3619.43,14,12,11194
+Beauty & Health,50,3001,143824.99,47.93,60.0,2876.5,7,17,11200

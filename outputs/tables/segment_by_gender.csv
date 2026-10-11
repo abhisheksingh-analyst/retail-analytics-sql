@@ -1,0 +1,16 @@
+Segment,Gender,customers
+1 Champions,Female,94
+1 Champions,Male,87
+1 Champions,Other,101
+2 At-Risk High Value,Female,77
+2 At-Risk High Value,Male,72
+2 At-Risk High Value,Other,90
+3 Loyal,Female,15
+3 Loyal,Male,25
+3 Loyal,Other,23
+4 Recent / Promising,Female,59
+4 Recent / Promising,Male,44
+4 Recent / Promising,Other,54
+5 Hibernating,Female,67
+5 Hibernating,Male,97
+5 Hibernating,Other,84

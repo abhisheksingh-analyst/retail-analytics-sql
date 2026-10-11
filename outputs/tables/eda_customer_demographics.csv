@@ -1,0 +1,16 @@
+dimension,value,customers
+Gender,Female,316
+Gender,Male,328
+Gender,Other,356
+Location,East,225
+Location,North,248
+Location,South,242
+Location,Unknown,13
+Location,West,272
+AgeGroup,Unknown,1
+AgeGroup,18-24,130
+AgeGroup,25-34,192
+AgeGroup,35-44,186
+AgeGroup,45-54,182
+AgeGroup,55-64,204
+AgeGroup,65+,105
